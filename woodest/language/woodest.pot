@@ -1,0 +1,2976 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Woodest\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-08-12 20:23+0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: Awardthemes <awardthemes.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;esc_attr__\n"
+"X-Loco-Target-Locale: ar_AE\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:15
+msgid "404"
+msgstr ""
+
+#: 404.php:16
+msgid "Something went wrong"
+msgstr ""
+
+#: 404.php:17
+msgid ""
+"The page you are looking for might have been removed or is temporarily "
+"unavailable."
+msgstr ""
+
+#: assets/js/pricefilter.min.js:11
+msgid "'"
+msgstr ""
+
+#: comments.php:12
+msgid "Recent Comment"
+msgstr ""
+
+#: comments.php:14
+msgid "Recent Comments"
+msgstr ""
+
+#: comments.php:24
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:25
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:26
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:42
+msgid "Leave Your Comments"
+msgstr ""
+
+#: comments.php:47
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments.php:48
+msgid "Cancel Reply"
+msgstr ""
+
+#: comments.php:49
+msgid "Post comment"
+msgstr ""
+
+#: comments.php:55 inc/widgets/newsletter/views/widget.php:22
+msgid "Your Name*"
+msgstr ""
+
+#: comments.php:58
+msgid "Website"
+msgstr ""
+
+#: comments.php:61
+msgid "Your email address *"
+msgstr ""
+
+#: comments.php:65
+msgid "Your comment"
+msgstr ""
+
+#: framework-customizations/extensions/portfolio/views/archive.php:29
+msgid "Portfolios"
+msgstr ""
+
+#: framework-customizations/extensions/portfolio/views/archive.php:43
+msgid "All"
+msgstr ""
+
+#: framework-customizations/extensions/portfolio/views/single.php:92
+msgid "Project Details"
+msgstr ""
+
+#: framework-customizations/extensions/portfolio/views/single.php:95
+msgid "Client"
+msgstr ""
+
+#: framework-customizations/extensions/portfolio/views/single.php:99
+msgid "Date"
+msgstr ""
+
+#: framework-customizations/extensions/portfolio/views/single.php:103
+msgid "Place"
+msgstr ""
+
+#: framework-customizations/extensions/portfolio/views/single.php:107
+#: framework-customizations/extensions/shortcodes/shortcodes/portfolio/options.php:15
+#: framework-customizations/extensions/shortcodes/shortcodes/services/options.php:15
+#: framework-customizations/extensions/shortcodes/shortcodes/team/options.php:15
+#: framework-customizations/extensions/shortcodes/shortcodes/wocommerce-element/options.php:15
+#: template-parts/header/sub-headers.php:187
+msgid "Category"
+msgstr ""
+
+#: framework-customizations/extensions/portfolio/views/single.php:111
+#: framework-customizations/extensions/shortcodes/shortcodes/team/config.php:8
+msgid "Team"
+msgstr ""
+
+#: framework-customizations/extensions/portfolio/views/single.php:115
+msgid "Budget"
+msgstr ""
+
+#: framework-customizations/extensions/portfolio/views/single.php:122
+msgid "Client Requiremnt"
+msgstr ""
+
+#: framework-customizations/extensions/portfolio/views/single.php:130
+msgid "About Our Team"
+msgstr ""
+
+#: framework-customizations/extensions/portfolio/views/single.php:140
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:55
+#: framework-customizations/extensions/shortcodes/shortcodes/theme-slider/options.php:24
+#: framework-customizations/extensions/shortcodes/shortcodes/welcome-section/options.php:14
+#: framework-customizations/theme/options/settings.php:103
+msgid "Description"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/blog/config.php:8
+#: framework-customizations/theme/options/settings.php:409
+msgid "Blog"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/blog/config.php:9
+msgid "Add a blog element"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/blog/config.php:10
+#: framework-customizations/extensions/shortcodes/shortcodes/call-to-action/config.php:10
+#: framework-customizations/extensions/shortcodes/shortcodes/contact-info/config.php:10
+#: framework-customizations/extensions/shortcodes/shortcodes/our-clients/config.php:10
+#: framework-customizations/extensions/shortcodes/shortcodes/portfolio/config.php:10
+#: framework-customizations/extensions/shortcodes/shortcodes/project-facts/config.php:10
+#: framework-customizations/extensions/shortcodes/shortcodes/services/config.php:10
+#: framework-customizations/extensions/shortcodes/shortcodes/special-heading/config.php:10
+#: framework-customizations/extensions/shortcodes/shortcodes/team/config.php:10
+#: framework-customizations/extensions/shortcodes/shortcodes/testimonials/config.php:10
+#: framework-customizations/extensions/shortcodes/shortcodes/theme-slider/config.php:10
+#: framework-customizations/extensions/shortcodes/shortcodes/welcome-section/config.php:10
+#: framework-customizations/extensions/shortcodes/shortcodes/why-choose-us/config.php:10
+#: framework-customizations/extensions/shortcodes/shortcodes/wocommerce-element/config.php:10
+#: functions.php:133
+msgid "Woodest"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/blog/options.php:10
+#: framework-customizations/extensions/shortcodes/shortcodes/call-to-action/options.php:10
+#: framework-customizations/extensions/shortcodes/shortcodes/contact-info/options.php:10
+#: framework-customizations/extensions/shortcodes/shortcodes/portfolio/options.php:10
+#: framework-customizations/extensions/shortcodes/shortcodes/project-facts/options.php:10
+#: framework-customizations/extensions/shortcodes/shortcodes/services/options.php:10
+#: framework-customizations/extensions/shortcodes/shortcodes/special-heading/options.php:10
+#: framework-customizations/extensions/shortcodes/shortcodes/team/options.php:10
+#: framework-customizations/extensions/shortcodes/shortcodes/welcome-section/options.php:10
+#: framework-customizations/extensions/shortcodes/shortcodes/why-choose-us/options.php:10
+#: framework-customizations/extensions/shortcodes/shortcodes/wocommerce-element/options.php:10
+msgid "Page Custom Class"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/blog/options.php:11
+#: framework-customizations/extensions/shortcodes/shortcodes/call-to-action/options.php:11
+#: framework-customizations/extensions/shortcodes/shortcodes/contact-info/options.php:11
+#: framework-customizations/extensions/shortcodes/shortcodes/portfolio/options.php:11
+#: framework-customizations/extensions/shortcodes/shortcodes/project-facts/options.php:11
+#: framework-customizations/extensions/shortcodes/shortcodes/services/options.php:11
+#: framework-customizations/extensions/shortcodes/shortcodes/special-heading/options.php:11
+#: framework-customizations/extensions/shortcodes/shortcodes/team/options.php:11
+#: framework-customizations/extensions/shortcodes/shortcodes/welcome-section/options.php:11
+#: framework-customizations/extensions/shortcodes/shortcodes/why-choose-us/options.php:11
+#: framework-customizations/extensions/shortcodes/shortcodes/wocommerce-element/options.php:11
+msgid "Please add the page custom class."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/blog/options.php:15
+msgid "Select Posts Categories"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/blog/options.php:18
+#: framework-customizations/extensions/shortcodes/shortcodes/portfolio/options.php:18
+#: framework-customizations/extensions/shortcodes/shortcodes/services/options.php:18
+#: framework-customizations/extensions/shortcodes/shortcodes/team/options.php:18
+#: framework-customizations/extensions/shortcodes/shortcodes/wocommerce-element/options.php:18
+msgid "Show posts by category selection."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/blog/options.php:21
+msgid "Blog Style"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/blog/options.php:24
+msgid "Blog Full"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/blog/options.php:25
+msgid "Blog Grid"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/blog/options.php:29
+msgid "Blog Grid Columns"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/blog/options.php:32
+#: framework-customizations/extensions/shortcodes/shortcodes/team/options.php:25
+msgid "2 Columns"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/blog/options.php:33
+#: framework-customizations/extensions/shortcodes/shortcodes/team/options.php:26
+#: framework-customizations/theme/options/settings.php:246
+msgid "3 Columns"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/blog/options.php:34
+#: framework-customizations/extensions/shortcodes/shortcodes/team/options.php:27
+#: framework-customizations/theme/options/settings.php:247
+msgid "4 Columns"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/blog/options.php:38
+msgid "Num Title (Character)"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/blog/options.php:40
+#: framework-customizations/extensions/shortcodes/shortcodes/portfolio/options.php:33
+#: framework-customizations/extensions/shortcodes/shortcodes/services/options.php:23
+msgid "This is a number of characters that you want to show on the post title."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/blog/options.php:43
+msgid "Num Description"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/blog/options.php:45
+msgid ""
+"This is a number of characters that you want to show on the post description."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/blog/options.php:48
+msgid "Num Fetch"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/blog/options.php:50
+#: framework-customizations/extensions/shortcodes/shortcodes/blog/options.php:56
+#: framework-customizations/extensions/shortcodes/shortcodes/services/options.php:61
+#: framework-customizations/extensions/shortcodes/shortcodes/services/options.php:72
+msgid "Specify the number of posts you want to pull out."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/blog/options.php:53
+#: framework-customizations/extensions/shortcodes/shortcodes/portfolio/options.php:41
+#: framework-customizations/extensions/shortcodes/shortcodes/services/options.php:58
+#: framework-customizations/extensions/shortcodes/shortcodes/team/options.php:41
+#: framework-customizations/extensions/shortcodes/shortcodes/wocommerce-element/options.php:40
+msgid "Order By"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/blog/options.php:58
+#: framework-customizations/extensions/shortcodes/shortcodes/portfolio/options.php:46
+#: framework-customizations/extensions/shortcodes/shortcodes/services/options.php:63
+#: framework-customizations/extensions/shortcodes/shortcodes/team/options.php:46
+#: framework-customizations/extensions/shortcodes/shortcodes/wocommerce-element/options.php:45
+#: framework-customizations/extensions/shortcodes/shortcodes/wocommerce-element/options.php:56
+msgid "Publish date"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/blog/options.php:59
+#: framework-customizations/extensions/shortcodes/shortcodes/call-to-action/options.php:22
+#: framework-customizations/extensions/shortcodes/shortcodes/portfolio/options.php:47
+#: framework-customizations/extensions/shortcodes/shortcodes/services/options.php:64
+#: framework-customizations/extensions/shortcodes/shortcodes/special-heading/options.php:33
+#: framework-customizations/extensions/shortcodes/shortcodes/team/options.php:47
+#: framework-customizations/extensions/shortcodes/shortcodes/wocommerce-element/options.php:46
+#: framework-customizations/extensions/shortcodes/shortcodes/wocommerce-element/options.php:57
+msgid "Title"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/blog/options.php:60
+#: framework-customizations/extensions/shortcodes/shortcodes/portfolio/options.php:48
+#: framework-customizations/extensions/shortcodes/shortcodes/services/options.php:65
+#: framework-customizations/extensions/shortcodes/shortcodes/team/options.php:48
+#: framework-customizations/extensions/shortcodes/shortcodes/wocommerce-element/options.php:47
+#: framework-customizations/extensions/shortcodes/shortcodes/wocommerce-element/options.php:58
+msgid "Random"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/blog/options.php:64
+#: framework-customizations/extensions/shortcodes/shortcodes/services/options.php:79
+#: framework-customizations/extensions/shortcodes/shortcodes/team/options.php:62
+#: framework-customizations/extensions/shortcodes/shortcodes/wocommerce-element/options.php:62
+msgid "Enable Pagination"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/blog/options.php:69
+#: framework-customizations/extensions/shortcodes/shortcodes/our-clients/options.php:34
+#: framework-customizations/extensions/shortcodes/shortcodes/services/options.php:84
+#: framework-customizations/extensions/shortcodes/shortcodes/team/options.php:67
+#: framework-customizations/extensions/shortcodes/shortcodes/wocommerce-element/options.php:67
+#: framework-customizations/theme/options/posts/fw-portfolio.php:65
+#: framework-customizations/theme/options/posts/page.php:28
+#: framework-customizations/theme/options/posts/post.php:24
+#: framework-customizations/theme/options/settings.php:97
+#: framework-customizations/theme/options/settings.php:143
+#: framework-customizations/theme/options/settings.php:200
+#: framework-customizations/theme/options/settings.php:214
+#: framework-customizations/theme/options/settings.php:267
+#: framework-customizations/theme/options/settings.php:423
+#: framework-customizations/theme/options/settings.php:437
+#: framework-customizations/theme/options/settings.php:451
+#: framework-customizations/theme/options/settings.php:465
+#: framework-customizations/theme/options/settings.php:479
+#: framework-customizations/theme/options/settings.php:493
+#: framework-customizations/theme/options/settings.php:507
+#: framework-customizations/theme/options/settings.php:521
+#: framework-customizations/theme/options/settings.php:535
+#: framework-customizations/theme/options/settings.php:621
+#: framework-customizations/theme/options/settings.php:635
+#: framework-customizations/theme/options/settings.php:649
+#: framework-customizations/theme/options/settings.php:663
+#: framework-customizations/theme/options/settings.php:677
+#: framework-customizations/theme/options/settings.php:691
+msgid "Enable"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/blog/options.php:73
+#: framework-customizations/extensions/shortcodes/shortcodes/our-clients/options.php:38
+#: framework-customizations/extensions/shortcodes/shortcodes/services/options.php:88
+#: framework-customizations/extensions/shortcodes/shortcodes/team/options.php:71
+#: framework-customizations/extensions/shortcodes/shortcodes/wocommerce-element/options.php:71
+#: framework-customizations/theme/options/posts/fw-portfolio.php:69
+#: framework-customizations/theme/options/posts/page.php:32
+#: framework-customizations/theme/options/posts/post.php:28
+#: framework-customizations/theme/options/settings.php:101
+#: framework-customizations/theme/options/settings.php:147
+#: framework-customizations/theme/options/settings.php:204
+#: framework-customizations/theme/options/settings.php:218
+#: framework-customizations/theme/options/settings.php:271
+#: framework-customizations/theme/options/settings.php:427
+#: framework-customizations/theme/options/settings.php:441
+#: framework-customizations/theme/options/settings.php:455
+#: framework-customizations/theme/options/settings.php:469
+#: framework-customizations/theme/options/settings.php:483
+#: framework-customizations/theme/options/settings.php:497
+#: framework-customizations/theme/options/settings.php:511
+#: framework-customizations/theme/options/settings.php:525
+#: framework-customizations/theme/options/settings.php:539
+#: framework-customizations/theme/options/settings.php:625
+#: framework-customizations/theme/options/settings.php:639
+#: framework-customizations/theme/options/settings.php:653
+#: framework-customizations/theme/options/settings.php:667
+#: framework-customizations/theme/options/settings.php:681
+#: framework-customizations/theme/options/settings.php:695
+msgid "Disable"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/call-to-action/config.php:8
+msgid "Call to Action"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/call-to-action/config.php:9
+msgid "Add a Call to acction element"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/call-to-action/options.php:14
+msgid "Call to action Style"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/call-to-action/options.php:17
+#: framework-customizations/extensions/shortcodes/shortcodes/special-heading/options.php:28
+msgid "Style 1"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/call-to-action/options.php:18
+#: framework-customizations/extensions/shortcodes/shortcodes/special-heading/options.php:29
+msgid "Style 2"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/call-to-action/options.php:24
+#: framework-customizations/extensions/shortcodes/shortcodes/project-facts/options.php:16
+msgid "Please add the font awesome / SVG icon code here."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/call-to-action/options.php:27
+#: framework-customizations/extensions/shortcodes/shortcodes/special-heading/options.php:38
+msgid "Title Color"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/call-to-action/options.php:29
+msgid "Please select the title color from the color picker here."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/call-to-action/options.php:32
+msgid "First Button Text"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/call-to-action/options.php:36
+msgid "First Button Link"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/call-to-action/options.php:38
+msgid "Enter the first button link here."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/call-to-action/options.php:41
+msgid "Second Button Text"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/call-to-action/options.php:43
+msgid "Enter the second button text here"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/call-to-action/options.php:46
+msgid "Second Button Link"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/call-to-action/options.php:48
+msgid "Please enter the second button link here."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:10
+msgid "Column Custom Class"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/column/options.php:11
+msgid "Please add the Column custom class."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/contact-info/config.php:8
+msgid "Contact Info"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/contact-info/config.php:9
+msgid "Add a contact info element"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/contact-info/options.php:14
+msgid "First Title"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/contact-info/options.php:16
+#: framework-customizations/extensions/shortcodes/shortcodes/welcome-section/options.php:26
+#: framework-customizations/extensions/shortcodes/shortcodes/why-choose-us/options.php:31
+msgid "Please enter the first title here."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/contact-info/options.php:19
+msgid "Address Info"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/contact-info/options.php:21
+msgid "Please enter the address information here."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/contact-info/options.php:24
+#: framework-customizations/extensions/shortcodes/shortcodes/welcome-section/options.php:39
+msgid "Second Title"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/contact-info/options.php:26
+#: framework-customizations/extensions/shortcodes/shortcodes/welcome-section/options.php:41
+#: framework-customizations/extensions/shortcodes/shortcodes/why-choose-us/options.php:46
+msgid "Please enter the second title here."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/contact-info/options.php:29
+msgid "Phone Number One"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/contact-info/options.php:31
+msgid "Please enter the first phone number here."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/contact-info/options.php:34
+msgid "Phone Number Second"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/contact-info/options.php:36
+msgid "Please enter the second phone number here."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/contact-info/options.php:39
+#: framework-customizations/extensions/shortcodes/shortcodes/welcome-section/options.php:54
+msgid "Third Title"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/contact-info/options.php:41
+#: framework-customizations/extensions/shortcodes/shortcodes/welcome-section/options.php:56
+#: framework-customizations/extensions/shortcodes/shortcodes/why-choose-us/options.php:61
+msgid "Please enter the third title here."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/contact-info/options.php:44
+msgid "Email One"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/contact-info/options.php:46
+msgid "Please enter the first email here."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/contact-info/options.php:49
+msgid "Email Two"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/contact-info/options.php:51
+msgid "Please enter the second email address here."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/our-clients/config.php:8
+msgid "Our Clients"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/our-clients/config.php:9
+msgid "Add Our Clients Element"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/our-clients/options.php:7
+msgid "Our Client"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/our-clients/options.php:8
+msgid "Add/Edit Client"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/our-clients/options.php:9
+msgid "Here you can add, remove and edit Clients."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/our-clients/options.php:14
+msgid "Client Image"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/our-clients/options.php:15
+#: framework-customizations/extensions/shortcodes/shortcodes/testimonials/options.php:29
+#: framework-customizations/extensions/shortcodes/shortcodes/theme-slider/options.php:15
+msgid ""
+"Either upload a new, or choose an existing image from your media library"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/our-clients/options.php:19
+msgid "Image Title"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/our-clients/options.php:20
+msgid "Enter the Title for image"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/our-clients/options.php:24
+msgid "Enter External Link Url"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/our-clients/options.php:25
+msgid "Please Enter Url for the client"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/our-clients/options.php:29
+msgid "Open In new Window"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/portfolio/config.php:8
+msgid "Portfolio"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/portfolio/config.php:9
+msgid "Add a portfolio element"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/portfolio/options.php:21
+msgid "Portfolio Layout"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/portfolio/options.php:23
+msgid "Please select the portfolio style here."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/portfolio/options.php:25
+msgid "Portfolio 2 Column"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/portfolio/options.php:26
+msgid "Portfolio 3 Column"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/portfolio/options.php:27
+msgid "Portfolio 4 Column"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/portfolio/options.php:31
+msgid "Title Chracters To Fetch"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/portfolio/options.php:36
+msgid "Portfolio to fetch"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/portfolio/options.php:38
+msgid "Specify the number of portfolios you want to pull out."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/portfolio/options.php:44
+msgid "Select Porfolio orderby."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/portfolio/options.php:52
+#: framework-customizations/extensions/shortcodes/shortcodes/services/options.php:69
+#: framework-customizations/extensions/shortcodes/shortcodes/wocommerce-element/options.php:51
+msgid "Order"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/portfolio/options.php:55
+msgid "Select Portfolio Order."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/portfolio/options.php:57
+#: framework-customizations/extensions/shortcodes/shortcodes/services/options.php:74
+#: framework-customizations/extensions/shortcodes/shortcodes/team/options.php:57
+msgid "Descending"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/portfolio/options.php:58
+#: framework-customizations/extensions/shortcodes/shortcodes/services/options.php:75
+#: framework-customizations/extensions/shortcodes/shortcodes/team/options.php:58
+msgid "Ascending"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/project-facts/config.php:8
+msgid "Project Facts"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/project-facts/config.php:9
+msgid "Add a Project facts element"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/project-facts/options.php:14
+msgid "Icon"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/project-facts/options.php:19
+msgid "Value"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/project-facts/options.php:21
+msgid "Add value here."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/project-facts/options.php:24
+msgid "Sub Text"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/project-facts/options.php:26
+msgid "Add sub text of project facts here."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/config.php:5
+msgid "Layout Elements"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/config.php:6
+msgid "Section"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/config.php:7
+msgid "Add a Section"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:9
+#: framework-customizations/theme/options/settings.php:6
+msgid "General"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:13
+msgid "Custom ID"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:14
+msgid "Add Custom ID"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:18
+msgid "Custom Classes"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:19
+msgid "Add Custom Classes"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:27
+msgid "No"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:31
+msgid "Yes"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:33
+msgid "Full Width"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:34
+msgid "Select Section Width"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:39
+msgid "Background"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:48
+msgid "Background Type"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:51
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:62
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:74
+msgid "Background Color"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:52
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:69
+msgid "Background Image"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:53
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:117
+msgid "Background Video"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:56
+msgid "Help tip"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:63
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:75
+msgid "Please select the background color"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:70
+msgid "Please select the background image"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:79
+msgid "Background Opacity"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:86
+msgid "Set Background Opacity from here"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:92
+msgid "Background Repeat"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:93
+msgid "Repeat Background"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:95
+msgid "No Repeat"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:96
+msgid "Repeat"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:97
+msgid "Repeat X"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:98
+msgid "Repeat Y"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:105
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:106
+msgid "Background Size"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:108
+msgid "Auto"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:109
+msgid "Initial"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:110
+msgid "Cover"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:111
+msgid "Contain"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:118
+msgid "Insert Video URL to embed this video"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:127
+msgid "Padding"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:133
+msgid "Padding Top"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:134
+msgid "add padding top (ie:50)"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:139
+msgid "Padding Right"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:140
+msgid "add padding right (ie:50)"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:145
+msgid "Padding Bottom"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:146
+msgid "add padding bottom (ie:50)"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:151
+msgid "Padding Left"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:152
+msgid "add padding left (ie:50)"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:157
+msgid "Margin"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:163
+msgid "Margin Top"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:164
+msgid "add margin top (ie:50)"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:169
+msgid "Margin Right"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:170
+msgid "add margin right (ie:50)"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:175
+msgid "Margin Bottom"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:176
+msgid "add margin bottom (ie:50)"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:181
+msgid "Margin Left"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/section/options.php:182
+msgid "add margin left (ie:50)"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/services/config.php:8
+msgid "Services"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/services/config.php:9
+msgid "Add a services element"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/services/options.php:21
+msgid "Title Character Fetch"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/services/options.php:26
+msgid "Number of Description Fetch"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/services/options.php:28
+msgid "This is a number of Description characters that you want to show."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/services/options.php:31
+msgid "Service Style"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/services/options.php:33
+msgid "Please select the services style here."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/services/options.php:35
+msgid "Service Style 1"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/services/options.php:36
+msgid "Service Style 2"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/services/options.php:37
+msgid "Service Style 3"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/services/options.php:38
+msgid "Service Style 4"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/services/options.php:39
+msgid "Service Style 5"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/services/options.php:43
+msgid "Service Columns"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/services/options.php:46
+msgid "1 Column"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/services/options.php:47
+#: framework-customizations/extensions/shortcodes/shortcodes/wocommerce-element/options.php:24
+msgid "2 Column"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/services/options.php:48
+#: framework-customizations/extensions/shortcodes/shortcodes/wocommerce-element/options.php:25
+msgid "3 Column"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/services/options.php:49
+#: framework-customizations/extensions/shortcodes/shortcodes/wocommerce-element/options.php:26
+msgid "4 Column"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/services/options.php:53
+msgid "Number of Services Fetch"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/services/options.php:55
+msgid "Specify the number of services you want to pull out."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/services/views/view.php:109
+msgid "know more"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/services/views/view.php:133
+msgid "learn more"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/services/views/view.php:171
+msgid "Our awesome features"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/special-heading/config.php:8
+msgid "Special Heading"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/special-heading/config.php:9
+msgid "Add a heading element"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/special-heading/options.php:14
+msgid "Alignment"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/special-heading/options.php:16
+msgid "Please select the heading alignment style here."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/special-heading/options.php:18
+msgid "Left"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/special-heading/options.php:19
+msgid "Right"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/special-heading/options.php:20
+msgid "Center"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/special-heading/options.php:24
+msgid "Heading Style"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/special-heading/options.php:26
+msgid "Please select the heading style here."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/special-heading/options.php:35
+msgid "Add heading title here."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/special-heading/options.php:42
+msgid "Caption"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/special-heading/options.php:44
+msgid "Add caption title here."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/special-heading/options.php:47
+msgid "caption Color"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/team/config.php:9
+msgid "Add a team element"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/team/options.php:21
+msgid "Team Column Layout"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/team/options.php:23
+msgid "Please select the team style here."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/team/options.php:31
+#: framework-customizations/extensions/shortcodes/shortcodes/wocommerce-element/options.php:30
+msgid "Title Fetch"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/team/options.php:33
+msgid "Please Enter number of characters that you want to show for Team Title."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/team/options.php:36
+msgid "Fetch Team Members"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/team/options.php:38
+msgid "Please enter the number of team member you want to Fetch."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/team/options.php:44
+msgid "Select Team Order by."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/team/options.php:52
+msgid "Team Order"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/team/options.php:55
+msgid "Select Team Order."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/testimonials/config.php:8
+#: framework-customizations/extensions/shortcodes/shortcodes/testimonials/options.php:16
+msgid "Testimonials"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/testimonials/config.php:9
+msgid "Add a testimonial element"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/testimonials/options.php:7
+msgid "Testimonials Style"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/testimonials/options.php:9
+msgid "Please select the testimonial style here."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/testimonials/options.php:11
+msgid "Normal View"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/testimonials/options.php:12
+msgid "Advance View"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/testimonials/options.php:17
+msgid "Add/Edit Testimonial"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/testimonials/options.php:18
+msgid "Here you can add, remove and edit your Testimonials."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/testimonials/options.php:23
+msgid "Quote"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/testimonials/options.php:24
+msgid "Enter the testimonial here"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/testimonials/options.php:28
+#: framework-customizations/theme/options/posts/post.php:42
+msgid "Image"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/testimonials/options.php:33
+msgid "Name"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/testimonials/options.php:34
+msgid "Enter the Name of the Person to quote"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/testimonials/options.php:38
+msgid "Position"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/testimonials/options.php:39
+msgid "Can be used for a job description"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/theme-slider/config.php:8
+msgid "Theme Slider"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/theme-slider/config.php:9
+msgid "Add a Slider Element"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/theme-slider/options.php:7
+msgid "Slider"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/theme-slider/options.php:8
+msgid "Add/Edit Slider"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/theme-slider/options.php:9
+msgid "Here you can add, remove and edit your Sliders."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/theme-slider/options.php:14
+msgid "Slide Image"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/theme-slider/options.php:19
+msgid "Slide Title"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/theme-slider/options.php:20
+msgid "Enter the Title of the Slide"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/theme-slider/options.php:25
+msgid "Enter the Slide Description here"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/theme-slider/options.php:29
+msgid "Get In Touch Button Text"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/theme-slider/options.php:30
+msgid "Please Enter First Button Text"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/theme-slider/options.php:34
+msgid "Get In Touch Button Url"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/theme-slider/options.php:35
+msgid "Please Enter First Button Url"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/theme-slider/options.php:39
+msgid "Purchase Now Button Text"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/theme-slider/options.php:40
+msgid "Please Enter Second Button Text"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/theme-slider/options.php:44
+msgid "Purchase Now Url"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/theme-slider/options.php:45
+msgid "Please Enter Second Button Url"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/welcome-section/config.php:8
+msgid "Welcome Section"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/welcome-section/config.php:9
+msgid "Add a welcome element"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/welcome-section/options.php:16
+msgid "Enter the Description Text here."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/welcome-section/options.php:19
+#: framework-customizations/extensions/shortcodes/shortcodes/why-choose-us/options.php:24
+msgid "Icon One"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/welcome-section/options.php:21
+#: framework-customizations/extensions/shortcodes/shortcodes/why-choose-us/options.php:26
+msgid "Please enter the first icon code here."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/welcome-section/options.php:24
+#: framework-customizations/extensions/shortcodes/shortcodes/why-choose-us/options.php:29
+msgid "Title One"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/welcome-section/options.php:29
+msgid "First Description"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/welcome-section/options.php:31
+#: framework-customizations/extensions/shortcodes/shortcodes/why-choose-us/options.php:36
+msgid "Please enter the first description here."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/welcome-section/options.php:34
+#: framework-customizations/extensions/shortcodes/shortcodes/why-choose-us/options.php:39
+msgid "Second Icon"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/welcome-section/options.php:36
+#: framework-customizations/extensions/shortcodes/shortcodes/why-choose-us/options.php:41
+msgid "Please enter the second icon code here."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/welcome-section/options.php:44
+msgid "Second Description"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/welcome-section/options.php:46
+#: framework-customizations/extensions/shortcodes/shortcodes/why-choose-us/options.php:51
+msgid "Please enter the second description here."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/welcome-section/options.php:49
+#: framework-customizations/extensions/shortcodes/shortcodes/why-choose-us/options.php:54
+msgid "Third Icon"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/welcome-section/options.php:51
+#: framework-customizations/extensions/shortcodes/shortcodes/why-choose-us/options.php:56
+msgid "Please enter the third icon code here."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/welcome-section/options.php:59
+msgid "Third Description"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/welcome-section/options.php:61
+msgid "Please enter the third description here."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/welcome-section/options.php:64
+msgid "Contact Form Shortcode"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/welcome-section/options.php:66
+msgid "Please enter the contact form shortcode here."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/why-choose-us/config.php:8
+msgid "Why Choose Us"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/why-choose-us/config.php:9
+msgid "Add a why choose us element"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/why-choose-us/options.php:14
+msgid "Main Heading"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/why-choose-us/options.php:16
+msgid "Please enter the main heading here."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/why-choose-us/options.php:19
+msgid "Heading Caption"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/why-choose-us/options.php:21
+msgid "Please enter the main heading caption here."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/why-choose-us/options.php:34
+msgid "Description One"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/why-choose-us/options.php:44
+msgid "Title Second"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/why-choose-us/options.php:49
+msgid "Description Second"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/why-choose-us/options.php:59
+msgid "Title Third"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/why-choose-us/options.php:64
+msgid "Description Third"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/why-choose-us/options.php:66
+msgid "Please enter the third description here"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/why-choose-us/options.php:69
+msgid "Left Image"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/why-choose-us/options.php:70
+msgid "Upload Left Side Image from here"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/why-choose-us/options.php:74
+msgid "Introduction Text"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/why-choose-us/options.php:76
+msgid "Please enter the introduction text here."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/why-choose-us/views/view.php:55
+#: inc/widgets/latest-project/views/widget.php:25
+#: inc/widgets/recent-posts/views/widget.php:24
+#: inc/widgets/successful-project/views/widget.php:24
+msgid "img"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/wocommerce-element/config.php:8
+msgid "Woo Products"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/wocommerce-element/config.php:9
+msgid "Add a Woocommerce element"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/wocommerce-element/options.php:21
+msgid "Woo Column Size"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/wocommerce-element/options.php:32
+msgid ""
+"Please Enter number of characters that you want to show for Product title."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/wocommerce-element/options.php:35
+msgid "Fetch Products"
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/wocommerce-element/options.php:37
+msgid "Please enter number of Products you want to Fetch."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/wocommerce-element/options.php:43
+msgid "Select Products Order By."
+msgstr ""
+
+#: framework-customizations/extensions/shortcodes/shortcodes/wocommerce-element/options.php:54
+msgid "Select Products Order."
+msgstr ""
+
+#: framework-customizations/theme/options/posts/fw-portfolio.php:6
+msgid "Project Custom Fields"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/fw-portfolio.php:10
+#: framework-customizations/theme/options/posts/post.php:14
+#: framework-customizations/theme/options/posts/services.php:10
+#: framework-customizations/theme/options/posts/team.php:10
+msgid "Post Caption"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/fw-portfolio.php:11
+#: framework-customizations/theme/options/posts/services.php:11
+#: framework-customizations/theme/options/posts/team.php:11
+msgid "Please enter the Caption for the post here."
+msgstr ""
+
+#: framework-customizations/theme/options/posts/fw-portfolio.php:15
+#: framework-customizations/theme/options/posts/services.php:15
+#: framework-customizations/theme/options/posts/team.php:15
+msgid "Header Background Image"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/fw-portfolio.php:16
+#: framework-customizations/theme/options/posts/services.php:16
+#: framework-customizations/theme/options/posts/team.php:16
+msgid "Click here to Upload the Header Background Image."
+msgstr ""
+
+#: framework-customizations/theme/options/posts/fw-portfolio.php:20
+msgid "Project Client Name"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/fw-portfolio.php:21
+msgid ""
+"Please enter the name of the project client. Leave blank to hide this field."
+msgstr ""
+
+#: framework-customizations/theme/options/posts/fw-portfolio.php:25
+msgid "Project Date"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/fw-portfolio.php:26
+msgid "Please enter the date of the project. Leave blank to hide this field."
+msgstr ""
+
+#: framework-customizations/theme/options/posts/fw-portfolio.php:30
+msgid "Project Location"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/fw-portfolio.php:31
+msgid ""
+"Please enter the location of the project. Leave blank to hide this field."
+msgstr ""
+
+#: framework-customizations/theme/options/posts/fw-portfolio.php:35
+msgid "Project Category"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/fw-portfolio.php:36
+msgid ""
+"Please enter the category of the project. Leave blank to hide this field."
+msgstr ""
+
+#: framework-customizations/theme/options/posts/fw-portfolio.php:40
+msgid "Project Team"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/fw-portfolio.php:41
+msgid "Please enter the Team of the project. Leave blank to hide this field."
+msgstr ""
+
+#: framework-customizations/theme/options/posts/fw-portfolio.php:45
+msgid "Project Price"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/fw-portfolio.php:46
+msgid "Please enter the cost of this project. Leave blank to hide this field."
+msgstr ""
+
+#: framework-customizations/theme/options/posts/fw-portfolio.php:50
+msgid "Client Requirement"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/fw-portfolio.php:51
+msgid ""
+"Please enter the Client Requirement of the project. Leave blank to hide this "
+"field."
+msgstr ""
+
+#: framework-customizations/theme/options/posts/fw-portfolio.php:55
+msgid "About Team"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/fw-portfolio.php:56
+msgid ""
+"Please enter the description about the taem working on this project. Leave "
+"blank to hide this field.."
+msgstr ""
+
+#: framework-customizations/theme/options/posts/fw-portfolio.php:60
+msgid "Enable/Disable Detail Page"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/fw-portfolio.php:61
+msgid ""
+"Disabling this will remove detail page link from all project listing for "
+"this Project."
+msgstr ""
+
+#: framework-customizations/theme/options/posts/page.php:7
+msgid "Page Settings"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/page.php:24
+msgid "Sub Header"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/page.php:34
+msgid "Enable/Disable Sub Header From here."
+msgstr ""
+
+#: framework-customizations/theme/options/posts/page.php:40
+msgid "Page Caption"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/page.php:43
+msgid "Add Page Caption from here."
+msgstr ""
+
+#: framework-customizations/theme/options/posts/page.php:46
+msgid "Sub Header Image"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/page.php:49
+msgid "Upload Subheader Image from here."
+msgstr ""
+
+#: framework-customizations/theme/options/posts/post.php:9
+msgid "Post Custom Fields"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/post.php:15
+msgid "Please add post caption here."
+msgstr ""
+
+#: framework-customizations/theme/options/posts/post.php:20
+msgid "Author Information"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/post.php:21
+msgid "Enable or Disable Author Information for this post."
+msgstr ""
+
+#: framework-customizations/theme/options/posts/post.php:37
+msgid "Post Format"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/post.php:38
+msgid "Select Post Format"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/post.php:43
+msgid "Image Slider"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/post.php:44
+msgid "Audio/Video"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/post.php:54
+msgid "Please add featured image."
+msgstr ""
+
+#: framework-customizations/theme/options/posts/post.php:61
+msgid "Add Image Slider"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/post.php:62
+msgid "Add Image Slider for this post."
+msgstr ""
+
+#: framework-customizations/theme/options/posts/post.php:69
+msgid "Audio/Video Link"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/post.php:70
+msgid "Please add audio/video Link here."
+msgstr ""
+
+#: framework-customizations/theme/options/posts/services.php:6
+msgid "Service Custom Fields"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/services.php:20
+msgid "Icon Class"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/services.php:21
+msgid "Please enter the Icon Class here."
+msgstr ""
+
+#: framework-customizations/theme/options/posts/services.php:25
+msgid "Coordination Text"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/services.php:26
+msgid "Please enter the coordination description here."
+msgstr ""
+
+#: framework-customizations/theme/options/posts/services.php:30
+msgid "Cost Control Information"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/services.php:31
+msgid "Please enter the cost control Informatio0n here."
+msgstr ""
+
+#: framework-customizations/theme/options/posts/services.php:35
+msgid "Services Brochure Information"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/services.php:36
+msgid "Please enter the Services Brochure Informatio0n here."
+msgstr ""
+
+#: framework-customizations/theme/options/posts/services.php:40
+msgid "Download Button Link"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/services.php:41
+msgid "Please enter the download pdf button link URL here."
+msgstr ""
+
+#: framework-customizations/theme/options/posts/team.php:6
+msgid "Team Custom Fields"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/team.php:20
+msgid "Designation"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/team.php:21
+msgid "Please enter the Designation of team member here."
+msgstr ""
+
+#: framework-customizations/theme/options/posts/team.php:25
+msgid "Facebook Profile Link"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/team.php:26
+msgid "Please enter the Facebook Profile URL here."
+msgstr ""
+
+#: framework-customizations/theme/options/posts/team.php:30
+msgid "Twitter Profile Link"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/team.php:31
+msgid "Please enter the Twitter Profile URL here."
+msgstr ""
+
+#: framework-customizations/theme/options/posts/team.php:35
+msgid "Goofle plus Profile Link"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/team.php:36
+msgid "Please enter the Google PLus Profile URL here."
+msgstr ""
+
+#: framework-customizations/theme/options/posts/team.php:40
+msgid "Linkedin Profile Link"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/team.php:41
+msgid "Please enter the linkedin Profile URL here."
+msgstr ""
+
+#: framework-customizations/theme/options/posts/team.php:45
+msgid "Instagram Profile Link"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/team.php:46
+msgid "Please enter the Instagram Profile URL here."
+msgstr ""
+
+#: framework-customizations/theme/options/posts/team.php:50
+msgid "Dribbble Profile Link"
+msgstr ""
+
+#: framework-customizations/theme/options/posts/team.php:51
+msgid "Please enter the dribbble Profile URL here."
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:10
+msgid "Logo Panel"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:14
+msgid "Logo"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:15
+msgid "Upload your logo from here."
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:19
+msgid "Favicon"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:20
+msgid "Upload favicon Image from here."
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:24
+msgid "Logo Width"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:31
+msgid "Set logo width from here.(px)"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:34
+msgid "Logo Height"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:41
+msgid "Set logo height from here.(px)"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:44
+msgid "Logo Top Margin"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:51
+msgid "Set logo Top Margin from here.(px)"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:54
+msgid "Logo Bottom Margin"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:61
+msgid "Set logo Bottom Margin from here.(px)"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:66
+msgid "Header Settings"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:70
+msgid "Select Header Style"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:71
+msgid "Select Header Style from the given Options"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:76
+msgid "Header Style 1"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:93
+msgid "TopBar"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:109
+msgid "Email Address"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:112
+msgid "Add TopBar Email Address from here."
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:115
+msgid "Phone Number"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:118
+msgid "Add TopBar Phone Number from here."
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:139
+msgid "Contact Information Enable/Disable"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:149
+msgid "Enable/Disable Contact Information from here"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:155
+msgid "Opening Hours Text"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:158
+msgid "Add Opening Hours Text from here."
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:161
+msgid "Opening Hours"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:164
+msgid "Add Opening Hours Timing from here."
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:167
+msgid "Opening Hours Icon Class"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:170
+msgid "Add Opening Hours Icon Class from here."
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:173
+msgid "Location Text"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:176
+msgid "Add Location Text from here."
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:179
+msgid "Location"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:182
+msgid "Add Location from here."
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:185
+msgid "Location Icon Class"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:188
+msgid "Add Location Icon Class from here."
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:206
+msgid "Sticky Header Enable/Disable"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:207
+msgid "Enable/Disable Sticky Header from here"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:220
+msgid "Breadcrumbs Enable/Disable"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:221
+msgid "Enable/Disable Breadcrumbs from here"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:226
+msgid "Footer Settings"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:230
+msgid "Select Footer Style"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:231
+msgid "Select Footer Style from the given Options"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:236
+msgid "Footer Style 1"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:240
+msgid "Select Footer Columns"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:241
+msgid "Select Footer Column Layout from the given Options"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:263
+msgid "Copyrights Enable/Disable"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:273
+msgid "Enable/Disable Copy Rights from here"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:279
+msgid "Copyright Text"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:282
+msgid "Add Copyright Text from here."
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:292
+msgid "Sub Header Settings"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:296
+msgid "Default Page Subheader Background Image"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:297
+msgid "Upload Default Page Subheader Background Image from here."
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:301
+msgid "Default All Posts Subheader Background Image"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:302
+msgid ""
+"Upload Default All Posts Detail Page Subheader Background Image from here."
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:306
+msgid "Default Search/Archive Subheader Background Image"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:307
+msgid "Upload Default Search/Archive Subheader Background Image from here."
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:311
+msgid "Default 404 Page Subheader Background Image"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:312
+msgid "Upload Default 404 Page Subheader Background Image from here."
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:318
+msgid "Layout Management"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:322
+msgid "Website Layout"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:323
+msgid "Select Website Layout from the given Options"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:328
+msgid "Full Style"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:329
+msgid "Boxed Style"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:335
+msgid "Body Background Color"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:336
+msgid "Select Body Background Color"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:343
+#: inc/customizer.php:46
+msgid "Color Scheme"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:347
+msgid "Color Management"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:353
+msgid "Main ColorScheme"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:354
+msgid "Select Main Color Scheme Color"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:359
+msgid "Navigation Styling"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:365
+msgid "Navigation Text Color"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:366
+msgid "This Color Picker allows you to change the navigation text color."
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:371
+msgid "Navigation Text Hover BG"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:372
+msgid "This Color Picker allows you to change the navigation Hover BG color."
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:377
+msgid "Navigation Text Hover Color"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:378
+msgid "This Color Picker allows you to change the navigation text Hover color."
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:383
+msgid "Navigation DropDown BG"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:384
+msgid ""
+"This Color Picker allows you to change the navigation dropdown BG color."
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:389
+msgid "Navigation DropDown Text Color"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:390
+msgid ""
+"This Color Picker allows you to change the navigation Dropdown text color."
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:395
+msgid "Navigation DropDown Text Hover"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:396
+msgid ""
+"This Color Picker allows you to change the navigation dropdown Hover Text "
+"color."
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:401
+msgid "Navigation DropDown on Hover Background"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:402
+msgid ""
+"This Color Picker allows you to change the navigation dropdown Hover BG "
+"color."
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:413
+msgid "Post Detail Page Setting"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:419
+msgid "Post Detail Feature Image"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:420
+msgid ""
+"If you do not want to set a featured image (in case of sound post type : "
+"Audio player, in case of video post type : Video Player) kindly disable it "
+"here."
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:433
+msgid "Post Detail Date"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:434
+msgid ""
+"Using this option you can show/hide extra information about the blog or "
+"post, Date."
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:447
+msgid "Post Detail Author"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:448
+msgid "You can enable or disable the about author box from here."
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:461
+msgid "Post Detail Comments"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:462
+msgid ""
+"Using this option you can show/hide extra information about the blog or "
+"post, Comments."
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:475
+msgid "Post Detail Meta"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:476
+msgid ""
+"Using this option you can show/hide extra information about the blog or post "
+"Meta Information."
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:489
+msgid "Post Detail Category"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:490
+msgid ""
+"Using this option you can show/hide extra information about the blog or "
+"post, Category."
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:503
+msgid "Post Detail Next / Previous Button"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:504
+msgid ""
+"Using this option you can turn on/off the navigation arrows when viewing the "
+"blog single page."
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:517
+#: framework-customizations/theme/options/settings.php:531
+msgid "Post Detail Recommended Post Button"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:518
+#: framework-customizations/theme/options/settings.php:532
+msgid ""
+"Using this option you can turn on/off the Recommended Posts on the blog "
+"single page."
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:547
+msgid "Social"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:551
+msgid "Social Profiles"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:557
+msgid "Facebook Social"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:558
+#: framework-customizations/theme/options/settings.php:564
+#: framework-customizations/theme/options/settings.php:570
+#: framework-customizations/theme/options/settings.php:576
+#: framework-customizations/theme/options/settings.php:582
+#: framework-customizations/theme/options/settings.php:588
+#: framework-customizations/theme/options/settings.php:594
+#: framework-customizations/theme/options/settings.php:600
+#: framework-customizations/theme/options/settings.php:606
+msgid "Enter URL of your social profile here."
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:563
+msgid "Google Plus Social"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:569
+msgid "Linkedin Social"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:575
+msgid "Pinterest Social"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:581
+msgid "Skype Social"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:587
+msgid "Twitter Social"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:593
+msgid "Vimeo Social"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:599
+msgid "Youtube Social"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:605
+msgid "Instagram Social"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:611
+msgid "Social Shares"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:617
+msgid "Enable Social Share"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:618
+msgid "Enable this option to show the social shares below each post"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:631
+msgid "Facebook"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:632
+#: framework-customizations/theme/options/settings.php:646
+#: framework-customizations/theme/options/settings.php:660
+#: framework-customizations/theme/options/settings.php:674
+#: framework-customizations/theme/options/settings.php:688
+msgid "Enable this option to show the social Icon under post."
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:645
+msgid "Google Plus"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:659
+msgid "Linkedin"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:673
+msgid "Pinterest"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:687
+msgid "Twitter"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:703
+msgid "Typography"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:707
+msgid "Typography Settings"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:720
+msgid "Regular Font"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:721
+msgid "Default Font for body p ul li"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:733
+msgid "H1 Heading"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:734
+msgid "Choose Your H1 Heading font-family, font-size, color, font-weight."
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:746
+msgid "H2 Heading"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:747
+msgid "Choose Your H2 Heading font-family, font-size, color, font-weight."
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:759
+msgid "H3 Heading"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:760
+msgid "Choose Your H3 Heading font-family, font-size, color, font-weight."
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:772
+msgid "H4 Heading"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:773
+msgid "Choose Your H4 Heading font-family, font-size, color, font-weight."
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:785
+msgid "H5 Heading"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:786
+msgid "Choose Your H5 Heading font-family, font-size, color, font-weight."
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:798
+msgid "H6 Heading"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:799
+msgid "Choose Your H6 Heading font-family, font-size, color, font-weight."
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:811
+msgid "Navigation Font"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:812
+msgid "Default Font for navigation"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:820
+msgid "Api Settings"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:823
+msgid "Mail Chimp"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:829
+msgid "MailChimp Api"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:830
+msgid "Enter your MailChimp Key Here."
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:834
+msgid "MailChimp List ID"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:840
+msgid "Google"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:846
+msgid "Google Map Key"
+msgstr ""
+
+#: framework-customizations/theme/options/settings.php:847
+msgid ""
+"Enter google map key here. It will be used for google maps. Get and Api key "
+"From <a href=\"https://developers.google.com/maps/documentation/javascript/"
+"get-api-key\" target=\"_blank\"> Get API KEY </a>"
+msgstr ""
+
+#: functions.php:66 template-parts/page/content-front-page-panels.php:43
+#: template-parts/page/content-front-page.php:40
+#: template-parts/post/content-gallery.php:34
+#: template-parts/post/content-image.php:25
+#, php-format
+msgid "Chi tiết<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: inc/customizer.php:48
+msgid "Light"
+msgstr ""
+
+#: inc/customizer.php:49
+msgid "Dark"
+msgstr ""
+
+#: inc/customizer.php:50
+msgid "Custom"
+msgstr ""
+
+#: inc/customizer.php:66
+msgid "Theme Options"
+msgstr ""
+
+#: inc/customizer.php:77
+msgid "Page Layout"
+msgstr ""
+
+#: inc/customizer.php:80
+msgid ""
+"When the two-column layout is assigned, the page title is in one column and "
+"content is in the other."
+msgstr ""
+
+#: inc/customizer.php:82 inc/customizer.php:131
+msgid "One Column"
+msgstr ""
+
+#: inc/customizer.php:83 inc/customizer.php:132
+msgid "Two Column"
+msgstr ""
+
+#: inc/customizer.php:107
+#, php-format
+msgid "Front Page Section %d Content"
+msgstr ""
+
+#: inc/customizer.php:108
+msgid ""
+"Select pages to feature in each area from the dropdowns. Add an image to a "
+"section by setting a featured image in the page editor. Empty sections will "
+"not be displayed."
+msgstr ""
+
+#: inc/hooks.php:66
+msgid "Header Menu"
+msgstr ""
+
+#: inc/hooks.php:67
+msgid "Footer Menu"
+msgstr ""
+
+#: inc/hooks.php:152 inc/hooks.php:205
+msgid "Edit"
+msgstr ""
+
+#: inc/hooks.php:200
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/hooks.php:291
+msgid "Play background video"
+msgstr ""
+
+#: inc/hooks.php:292
+msgid "Pause background video"
+msgstr ""
+
+#: inc/hooks.php:332
+msgid "Recommended For You"
+msgstr ""
+
+#: inc/hooks.php:357 inc/hooks.php:380
+#: template-parts/post/content-excerpt.php:26
+#: template-parts/post/content-full.php:25
+#: template-parts/post/content-grid.php:43 template-parts/post/content.php:33
+msgid "Comments"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:334
+#: inc/plugins/tgm_plugins.php:99
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:335
+#: inc/plugins/tgm_plugins.php:100
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:337
+#: inc/plugins/tgm_plugins.php:102
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:339
+#: inc/plugins/tgm_plugins.php:104
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:340
+#: inc/plugins/tgm_plugins.php:105
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:392
+#: inc/plugins/tgm_plugins.php:157
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:393
+#: inc/plugins/class-tgm-plugin-activation.php:920
+#: inc/plugins/class-tgm-plugin-activation.php:2626
+#: inc/plugins/class-tgm-plugin-activation.php:3673
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:394
+#: inc/plugins/class-tgm-plugin-activation.php:3252
+#: inc/plugins/tgm_plugins.php:158
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:395
+#: inc/plugins/tgm_plugins.php:159
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:397
+#: inc/plugins/tgm_plugins.php:161
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:399
+#: inc/plugins/tgm_plugins.php:163
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:401
+#: inc/plugins/tgm_plugins.php:165
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:402
+#: inc/plugins/tgm_plugins.php:166
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:403
+#: inc/plugins/tgm_plugins.php:167
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:404
+#: inc/plugins/tgm_plugins.php:168
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:725
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:1027
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:1027
+#: inc/plugins/class-tgm-plugin-activation.php:1030
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:1030
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2075
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2366
+msgid "Required"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2369
+msgid "Recommended"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2385
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2388
+msgid "External Source"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2391
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2408
+msgid "Not Installed"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2412
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2414
+msgid "Active"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2420
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2423
+msgid "Requires Update"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2426
+msgid "Update recommended"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2583
+msgid "Installed version:"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2591
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2603
+msgid "Available version:"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2626
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2640
+msgid "Plugin"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2641
+msgid "Source"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2642
+msgid "Type"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2646
+msgid "Version"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2647
+msgid "Status"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2696
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2701
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2707
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2777
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2810
+msgid "Install"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2816
+msgid "Update"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2819
+msgid "Activate"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2850
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2852
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2893
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2895
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3001
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3027
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3251
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3591
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3596
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3602
+#: inc/plugins/class-tgm-plugin-activation.php:3610
+msgid "Show Details"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3602
+#: inc/plugins/class-tgm-plugin-activation.php:3610
+msgid "Hide Details"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3603
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3608
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3610
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3611
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3613
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/plugins/tgm_plugins.php:44
+msgid "Award Themes Core"
+msgstr ""
+
+#: inc/plugins/tgm_plugins.php:56
+msgid "Unyson"
+msgstr ""
+
+#: inc/plugins/tgm_plugins.php:63
+msgid "Contact Form 7"
+msgstr ""
+
+#: inc/plugins/tgm_plugins.php:69
+msgid "Woocommerce"
+msgstr ""
+
+#: inc/register-sidebars.php:18
+msgid "Blog Sidebar"
+msgstr ""
+
+#: inc/register-sidebars.php:20
+msgid ""
+"Add widgets here to appear in your sidebar on blog posts and archive pages."
+msgstr ""
+
+#: inc/register-sidebars.php:28
+msgid "Footer"
+msgstr ""
+
+#: inc/register-sidebars.php:30
+msgid "Add widgets here to appear in your footer."
+msgstr ""
+
+#: inc/widgets/contact-info/class-widget-contact-info.php:17
+msgid "AwardThemes: Contact Info"
+msgstr ""
+
+#: inc/widgets/contact/class-widget-contact.php:17
+msgid "AwardThemes: Contact Widget"
+msgstr ""
+
+#: inc/widgets/contact/views/widget.php:27
+msgid "Dirección"
+msgstr ""
+
+#: inc/widgets/contact/views/widget.php:34
+msgid "E-mail"
+msgstr ""
+
+#: inc/widgets/contact/views/widget.php:42
+msgid "Số điện thoại"
+msgstr ""
+
+#: inc/widgets/download-pdf/class-widget-download-pdf.php:17
+msgid "AwardThemes: Download Brochure"
+msgstr ""
+
+#: inc/widgets/latest-project/class-widget-latest-project.php:17
+msgid "AwardThemes: Latest Project"
+msgstr ""
+
+#: inc/widgets/latest-project/class-widget-latest-project.php:74
+#: inc/widgets/latest-project/class-widget-latest-project.php:78
+#: inc/widgets/recent-posts/class-widget-recent-posts.php:74
+#: inc/widgets/recent-posts/class-widget-recent-posts.php:78
+#: inc/widgets/services-list/class-widget-services-list.php:74
+#: inc/widgets/services-list/class-widget-services-list.php:78
+#: inc/widgets/successful-project/class-widget-successful-project.php:74
+#: inc/widgets/successful-project/class-widget-successful-project.php:78
+msgid " selected "
+msgstr ""
+
+#: inc/widgets/newsletter/class-widget-newsletter.php:17
+msgid "AwardThemes: Newsletter Widget"
+msgstr ""
+
+#: inc/widgets/newsletter/views/widget.php:26
+msgid "Your Email*"
+msgstr ""
+
+#: inc/widgets/newsletter/views/widget.php:29
+msgid "Subscribe"
+msgstr ""
+
+#: inc/widgets/recent-posts/class-widget-recent-posts.php:17
+msgid "AwardThemes: Recent Posts"
+msgstr ""
+
+#: inc/widgets/recent-posts/views/widget.php:24
+msgid "Post Cover"
+msgstr ""
+
+#: inc/widgets/services-list/class-widget-services-list.php:17
+msgid "AwardThemes: Services List"
+msgstr ""
+
+#: inc/widgets/successful-project/class-widget-successful-project.php:17
+msgid "AwardThemes: Successful Project Gallery"
+msgstr ""
+
+#: inc/widgets/working-hour/class-widget-working-hour.php:17
+msgid "AwardThemes: Working Hour"
+msgstr ""
+
+#: inc/widgets/working-hour/views/widget.php:20
+msgid "Monday - Friday"
+msgstr ""
+
+#: inc/widgets/working-hour/views/widget.php:25
+msgid "Sunday - Saturday"
+msgstr ""
+
+#: search.php:27
+msgid "Search results for: Keyword"
+msgstr ""
+
+#: search.php:28
+msgid "Sorry, but no result for your search: keyword"
+msgstr ""
+
+#: search.php:30
+msgid "back to home page"
+msgstr ""
+
+#: search.php:31
+msgid "Or Search Again"
+msgstr ""
+
+#: searchform.php:13
+msgid "Search Here"
+msgstr ""
+
+#: single.php:64
+msgid "Ngày đăng"
+msgstr ""
+
+#: single.php:67
+msgid "bởi"
+msgstr ""
+
+#: single.php:73
+msgid "Lượt xem"
+msgstr ""
+
+#: single.php:83 template-parts/page/content-page.php:15
+#: template-parts/page/content-page.php:38
+#: template-parts/page/content-page.php:64
+#: template-parts/post/content-gallery.php:39
+#: template-parts/post/content-image.php:30 template-parts/post/content.php:61
+msgid "Pages:"
+msgstr ""
+
+#: single.php:95
+msgid "Posted in"
+msgstr ""
+
+#: single.php:168
+msgid "Previous Post"
+msgstr ""
+
+#: single.php:171
+msgid "Next Post"
+msgstr ""
+
+#: template-parts/footer/footer-styles.php:90
+msgid "© 2018 All Rights Reserved"
+msgstr ""
+
+#: template-parts/footer/footer-styles.php:125
+msgid "© 2018 All Rights Reserved by Awardthemes"
+msgstr ""
+
+#: template-parts/footer/site-info.php:13
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: template-parts/footer/site-info.php:13
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: template-parts/header/sub-headers.php:152
+msgid "404 Error Page"
+msgstr ""
+
+#: template-parts/header/sub-headers.php:184
+msgid "Search Results"
+msgstr ""
+
+#: template-parts/header/sub-headers.php:190
+msgid "Tag"
+msgstr ""
+
+#: template-parts/header/sub-headers.php:202
+msgid "By"
+msgstr ""
+
+#: template-parts/header/sub-headers.php:208
+msgid "Shop"
+msgstr ""
+
+#: template-parts/header/sub-headers.php:211
+msgid "Archives"
+msgstr ""
+
+#: template-parts/header/sub-headers.php:221
+msgid "Blog Posts"
+msgstr ""
+
+#: template-parts/post/content-excerpt.php:74
+#: template-parts/post/content-full.php:67
+#: template-parts/post/content-grid.php:48 template-parts/post/content.php:70
+msgid "Chi tiết"
+msgstr ""
+
+#: template-parts/post/content-grid.php:34
+msgid "By "
+msgstr ""
+
+#: template-parts/post/content-none.php:12
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/post/content-none.php:16
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/post/content.php:70
+msgid "Read More"
+msgstr ""

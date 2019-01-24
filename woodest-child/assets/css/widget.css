@@ -1,0 +1,740 @@
+/*
+File Name: Widgets CSS Style
+Description: Widgets CSS File
+Author: Award Themes
+Author URI: http://www.awardthemes.com
+Version: 1.0
+*/
+
+/*
+	  ==============================================================
+		   Footer Widgets Style
+	  ==============================================================
+*/
+.gt_foo_outer_bg{
+	float:left;
+	width:100%;
+	position:relative;
+	background-color:#282828;
+	padding:40px 0px;	
+}
+/*COntact List Info*/
+.gt_foo_contact_outer_wrap{
+	float:left;
+	width:100%;
+	position:relative;
+	margin:0px 0px 40px;	
+}
+.gt_foo_contact_des{
+	float:left;
+	width:100%;
+	position:relative;
+	background-color:#1c1c1c;
+	padding:15px;
+	min-height:105px;
+}
+.gt_foo_contact_des i{
+	width:75px;
+	height:75px;
+	float:left;
+	border:2px solid #999;
+	text-align:center;
+	line-height:75px;
+	color:#999;
+	border-radius:100%;
+	font-size:30px;
+	display:inline-block;
+}
+.gt_foo_icon_des{
+	float:none;	
+	padding:12px 0px 0px 85px;
+	width:auto;
+}
+.gt_foo_icon_des h5{
+	color:#fff;
+	text-transform:uppercase;
+	font-weight:600;
+	font-size:24px;
+	margin:0px 0px 5px;	
+}
+.gt_foo_icon_des span,
+.gt_foo_icon_des a{
+	display:block;
+	color:#fff;
+	font-size:15px;
+	font-family: 'Roboto', sans-serif;
+}
+/*HOver CSS*/
+.gt_foo_contact_des:hover,
+.gt_foo_contact_des.active{
+	background-color:#181818;	
+}
+.gt_foo_contact_des:hover i,
+.gt_foo_contact_des.active i{
+	border-color:#fff;	
+}
+/*Widget Hdg*/
+.gt_widget_hdg{
+	float:left;
+	width:100%;
+	position:relative;	
+}
+.gt_widget_hdg h5{
+	color:#ffffff;
+	font-weight:500;
+	font-size:20px;
+	text-transform:uppercase;
+	margin:0px 0px 25px;	
+}
+/*Col 1*/
+.gt_foo_logo_wrap,
+.gt_widget_hdg{
+	float:left;
+	width:100%;
+	position:relative;	
+}
+.gt_foo_logo_wrap > a{
+	display:block;
+	margin:0px 0px 15px;	
+}
+.gt_foo_logo_wrap p{
+	margin:0px 0px 20px;
+	color:#999;	
+}
+.gt_foo_logo_wrap ul.gt_team1_contact_info li{
+	margin:0px 0px 14px;	
+}
+/*Col 2*/
+.gt_foo_about ul{
+	float:left;
+	width:100%;	
+}
+.gt_foo_about ul li{
+	display:inline-block;
+	position:relative;
+	width:100%;	
+}
+.gt_foo_about ul li:before{
+	content:"\f105";
+	font-family:fontawesome;
+	position:absolute;
+	top:9px;
+	left:0px;
+	font-size:15px;	
+}
+.gt_foo_about ul li a{
+	display:block;
+	color:#919191;
+	text-transform:capitalize;
+	padding:11px 15px;
+	border-bottom:1px solid rgba(145,145,145,0.18);	
+}
+/*Hover CSS*/
+.gt_foo_about ul li:hover:before{
+	left:10px;	
+}
+.gt_foo_about ul li:hover a{
+	padding-left:20px;	
+}
+/*Col 3*/
+.gt_foo_recent_projects ul{
+	float:left;
+	width:100%;	
+}
+.gt_foo_recent_projects ul li{
+	float:left;
+	width:30%;
+	margin:0 8px 10px 0;	
+}
+.gt_foo_recent_projects ul li a{
+	display:block;
+	overflow:hidden;	
+}
+.gt_foo_recent_projects ul li a img{
+	width:100%;
+	height:auto;	
+}
+/*Col 4*/
+.gt_foo_hours_wrap p{
+	margin:0px 0px 10px;
+	color:#999;	
+}
+.gt_foo_hours_wrap ul{
+	float:left;
+	width:100%;	
+}
+.gt_foo_hours_wrap ul li{
+	display:inline-block;
+	width:100%;
+	padding:8px 0px;
+	border-bottom:1px solid rgba(145,145,145,0.18);	
+	position:relative;
+	color:#919191;	
+}
+.gt_foo_hours_wrap ul li span{
+	float:right;	
+}
+/*Copyright CSS*/
+.gt_copyright_wrap{
+	float:left;
+	width:100%;
+	position:relative;
+	background-color:#171717;
+	padding:10px 0px;	
+}
+.gt_copyright_des{
+	float:left;
+	width:100%;
+	position:relative;
+	text-align:center;	
+}
+.gt_copyright_des p{
+	margin:0px;	
+	color:#919191;
+}
+.gt_copyright_des p a{
+	display:inline-block;
+	color:#919191;	
+}
+/*
+	  ==============================================================
+		   Aside Bar Style
+	  ==============================================================
+*/
+.aside_margin_bottom{
+	margin:0px 0px 30px;	
+}
+.gt_aside_outer_wrap,
+.gt_aside_search_wrap,
+.gt_aside_search_wrap form{
+	float:left;
+	width:100%;
+	position:relative;	
+}
+.widget_awardthemes_latest_project_widget,
+.widget_awardthemes_latest_project_widget h5{
+	float: left;
+	width: 100%;
+	position: relative;
+}
+.gt_aside_search_wrap form input[type="text"]{
+	width:100%;
+	height:40px;
+	border:1px solid #ececec;
+	padding:8px 50px 8px 15px;	
+}
+.gt_aside_search_wrap form input[type="submit"],
+.gt_aside_search_wrap form button{
+	background:none;
+	color:#999999;
+	height:40px;
+	position:absolute;
+	top:0px;
+	right:0px;
+	width:40px;	
+}
+/*Category 1*/
+.widget_categories ul,
+.gt_aside_post_wrap,
+.gt_aside_post_wrap ul,
+.gt_aside_fea_properties,
+.gt_aside_fea_properties ul{
+	float:left;
+	width:100%;	
+}
+.widget_categories{
+	margin-bottom: 30px;
+	float: left;
+}
+.widget_categories>h5{
+	margin: 0px 0px 20px;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+.widget_categories ul li{
+	display:inline-block;
+	width:100%;
+	position:relative;	
+}
+.widget_categories ul li a{
+	display:inline-block;
+	color:#999999;
+	font-weight:500;
+	line-height: 24px;
+    padding: 10px 0 10px 15px;
+}
+.widget_categories ul li:first-child a{
+	padding-top: 0px;
+}
+/*Featured Post Css*/
+.gt_aside_post_wrap ul li{
+	border-bottom:1px solid #efefef;
+	padding:12px 0px;
+	width:100%;
+	display:inline-block;	
+	margin-bottom: 12px;
+}
+.gt_aside_post_wrap ul li:first-child{
+	padding-top:0px;	
+}
+.gt_aside_post_wrap ul li figure{
+	width:80px;
+	float:left;	
+	overflow:hidden;
+	position:relative;
+}
+.gt_aside_post_wrap ul li figure:before{
+	content:"";
+	position:absolute;
+	top:0px;
+	left:0px;
+	right:0px;
+	bottom:0px;
+	border:3px solid;
+	opacity:0;
+	z-index:10;	
+}
+.gt_aside_post_wrap ul li:hover figure:before{
+	opacity:1;	
+}
+.gt_aside_post_wrap ul li figure img{
+	width:100%;
+	height:auto;	
+}
+.gt_aside_post_des{
+	float:none;
+	padding:0px 0px 0px 90px;
+	width:auto;	
+}
+.gt_aside_post_des h6 > a{
+	display:block;
+	font-size:14px;
+	color:#666666;
+	margin:0px 0px 6px;
+	font-weight:300;	
+}
+.gt_aside_post_des p{
+	margin:0px 0px 6px;	
+}
+.gt_aside_post_des p,
+.gt_aside_post_des span{
+	color:#999999;	
+}
+.gt_aside_post_des span{
+	display:block;
+	font-weight:bold;	
+}
+/*Latest Project CSS*/
+.gt_aside_fea_properties ul li{
+	float:left;
+	width:32%;
+	overflow:hidden;
+	position:relative;	
+}
+.gt_aside_fea_properties ul li:before{
+	content:"";
+	position:absolute;
+	top:0px;
+	left:0px;
+	width:100%;
+	height:100%;
+	border:3px solid;
+	opacity:0;
+	z-index:10;
+}
+.gt_aside_fea_properties ul li a{
+	display:block;	
+}
+.gt_aside_fea_properties ul li a img{
+	width:100%;
+	height:auto;	
+}
+.gt_aside_fea_properties ul li:hover:before{
+	opacity:1;	
+}
+/*Add 270 by 325 CSS*/
+.gt_aside_wrap{
+	float:left;
+	width:100%;
+	position:relative;
+	background-color:#fbfbfc;
+	padding:15px;
+	box-shadow:0px 0px 0px 2px #ececec;	
+}
+.gt_aside_wrap figure{
+	width:100%;	
+}
+.gt_aside_wrap figure img{
+	width:100%;
+	height:auto;	
+}
+.gt_aside_wrap h5{
+	color:#666666;
+	text-transform:uppercase;
+	margin:0px 0px 15px;	
+}
+.gt_aside_add_des{
+	position:absolute;
+	bottom:40px;
+	width:100%;
+	padding:12px 0px;
+	text-align:center;
+	border-bottom:3px solid;
+	background-color:#fff;
+	left:0px;	
+}
+.gt_aside_add_hdg{
+	position:absolute;
+	bottom:86px;
+	width:55%;
+	padding:10px 0px;
+	text-align:center;
+	left:0px;
+	right:0px;
+	margin:auto;	
+}
+.gt_aside_add_hdg h6{
+	color:#444444;
+}
+/*
+	  ==============================================================
+		   Services Detail Aside Bar Widgets Style
+	  ==============================================================
+*/
+.gt_services_detail_aside_wrap,
+.gt_services_detail_tab_wrap{
+	float:left;
+	width:100%;
+	position:relative;
+	margin-bottom:20px;
+}
+ul.gt_service_tab_link{
+	float:left;
+	width:100%;
+	border:1px solid #ebebeb;
+}
+ul.gt_service_tab_link li{
+	display:inline-block;
+	width:100%;
+	position:relative;	
+}
+ul.gt_service_tab_link li:before{
+	content:"";
+	position:absolute;
+	top:0px;
+	bottom:0px;
+	right:0px;
+	margin:auto;
+	width:3px;
+	height:0px;	
+}
+ul.gt_service_tab_link li a{
+	display:block;
+	color:#666666;
+	padding:20px 15px;
+	font-weight:500;
+	border-bottom:1px solid #ebebeb;
+	text-transform:uppercase;	
+}
+ul.gt_service_tab_link li:last-child a{
+	border-bottom:0px;	
+}
+/*Hover CSS*/
+ul.gt_service_tab_link li.active:before,
+ul.gt_service_tab_link li:hover:before{
+	height:100%;	
+}
+ul.gt_service_tab_link li.active a,
+ul.gt_service_tab_link li:hover a{
+	background-color:#666666;
+	color:#ffffff;
+	border-bottom:1px solid #666666;	
+}
+/*Download Boucher Css*/
+.gt_service_download_boucher{
+	margin-bottom:10px;
+	float:left;
+	width:100%;
+	position:relative;	
+}
+.gt_service_download_boucher ul{
+	float:left;
+	width:100%;	
+}
+.gt_service_download_boucher ul li{
+	width:100%;
+	position:relative;
+	margin:0px 0px 10px;
+}
+.gt_service_download_boucher ul li a{
+	display:block;
+	border:4px solid #666666;
+	padding:15px 12px;
+	color:#3b3b3c;
+	text-transform:uppercase;	
+}
+.gt_service_download_boucher ul li a i{
+	float:right;
+	padding:2px 0px 0px;
+	font-size:18px;	
+}
+/*Company Info CSS*/
+.gt_service_company_info{
+	float: left;width: 100%;position: relative;
+}
+.gt_service_company_info ul{
+	float:left;
+	width:100%;	
+}
+.gt_service_company_info ul li{
+	position:relative;
+	width:100%;
+	display:flex;
+	color:#666666;
+	padding:10px 0px;
+}
+.gt_service_company_info ul li i{
+	margin-right:15px;
+	padding:4px 0px 0px;	
+}
+.gt_professional_process_bg{
+    margin-bottom: 50px;
+    margin-top: 50px;
+    padding-bottom: 70px;
+    padding-top: 70px;
+}
+.widget_nav_menu h5{
+	color: #ffffff;
+    font-weight: 500;
+    font-size: 20px;
+    text-transform: uppercase;
+    margin: 0px 0px 25px;
+}
+.widget_nav_menu ul li{
+	border-color: rgba(145,145,145,0.18);
+	color: #fff;
+}
+.widget_nav_menu ul li a{
+	color: #fff;
+	font-weight: 500;
+}
+.widget_nav_menu ul li:first-child{
+	border-top: 0px;
+}
+div.wpcf7-validation-errors{
+	border: 0px;
+}
+.textwidget .wp-caption a img{
+	height: auto;
+}
+footer .search-wrapper-area{
+	display: block;
+	position: relative;
+	bottom: auto;
+	background-color: transparent;
+}
+footer .search-area input[type="text"]{
+	height: 44px;
+}
+footer .widget>h5{
+	    color: #ffffff;
+    font-weight: 500;
+    font-size: 20px;
+    text-transform: uppercase;
+    margin: 0px 0px 25px;
+}
+/*
+
+	[Table of contents]
+	## Site Loader
+
+*/
+
+/* ## Site Loader */
+.load-position .logo {
+	margin: 0 auto;
+	width: 150px;
+}
+.load-complete .ball-clip-rotate > div {
+	border-color: #FFC527 #FFC527 transparent;
+	background-color: #FFC527;
+	margin: 0 auto;
+	display: block;
+	top: 50%;
+	position: absolute;
+	left: 0;
+	right: 0;
+}
+.load-complete {
+    position: fixed;
+    background: #fff;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    z-index: 1031;
+}
+.load-complete .logo {
+	color: #4C4C4C;
+	text-align: center;
+	display: block;
+	margin-bottom: 20px;
+	font-family: 'Roboto', sans-serif;
+	font-size: 50px;
+}
+
+.load-complete .load-position h6 {
+    text-align: center;
+    color: #000;
+    font-size: 12px;
+	font-weight: 400;
+	font-style: italic;
+}
+.load-complete .load-position {
+    position: absolute;
+    top: 50%;
+    left: 0;
+    z-index: 999;
+    right: 0;
+    margin-top: -100px;
+}
+.load-complete .loading {
+    position: absolute;
+    width: 100%;
+    height: 1px;
+    margin: 20px auto;
+    left: 0;
+    right: 0;
+}
+.load-complete .loading-line {
+    position: absolute;
+    background: #eee;
+    width: 100%;
+    height: 2px;
+}
+.load-complete .loading-break {
+    position: absolute;
+    background: #059664;
+    width: 15px;
+    height: 2px;
+}
+.load-complete .loading-dot-1 {
+    -webkit-animation: loading 2s infinite;
+    -moz-animation: loading 2s infinite;
+    -ms-animation: loading 2s infinite;
+    -o-animation: loading 2s infinite;
+    animation: loading 2s infinite;
+}
+.load-complete .loading-dot-2 {
+    -webkit-animation: loading 2s 0.5s infinite;
+    -moz-animation: loading 2s 0.5s infinite;
+    -ms-animation: loading 2s 0.5s infinite;
+    -o-animation: loading 2s 0.5s infinite;
+    animation: loading 2s 0.5s infinite;
+}
+.load-complete .loading-dot-3 {
+    -webkit-animation: loading 2s 1s infinite;
+    -moz-animation: loading 2s 1s infinite;
+    -ms-animation: loading 2s 1s infinite;
+    -o-animation: loading 2s 1s infinite;
+    animation: loading 2s 1s infinite;
+}
+@keyframes "loading" {
+    from {
+        left: 0;
+    }
+    to {
+        left: 100%;
+    }
+}
+@-moz-keyframes loading {
+    from {
+        left: 0;
+    }
+    to {
+        left: 100%;
+    }
+}
+@-webkit-keyframes "loading" {
+    from {
+        left: 0;
+    }
+    to {
+        left: 100%;
+    }
+}
+@-ms-keyframes "loading" {
+    from {
+        left: 0;
+    }
+    to {
+        left: 100%;
+    }
+}
+@-o-keyframes "loading" {
+    from {
+        left: 0;
+    }
+    to {
+        left: 100%;
+    }
+}
+div.css-search input, div.css-search select {
+	padding: 5px;
+	width: 200px;
+}
+div.css-search.has-advanced div.em-search-main {
+	padding-bottom: 8px;
+	border: 0;
+}
+.css-events-list table.events-table td {
+	padding: 12px;
+}
+div.css-search input.em-search-text, div.css-search input.em-search-geo {
+	padding: 5;
+}
+div.css-search div.em-search-geo {
+	margin: 0px 0px 0px 5px;
+	padding-left: 20px;
+	background-position: 0px 8px;
+}
+div.css-search div.em-search-text {
+	margin: 0px 0px 0px 5px;
+	padding-left: 20px;
+	background-position: 0px 8px;
+}
+div.css-search div.em-search-main .em-search-submit {
+	top: 1px;
+	right: 1px;
+}
+div.time-picker li.selected {
+	background: #0063CE;
+	color: #fff;
+}
+.css-locations-list .em-locations-list {
+	margin-left: 0;
+}
+.css-locations-list .em-locations-list li {
+	list-style-type: none;
+	margin: 10px 0;
+}
+.css-locations-list .em-locations-list>li:nth-child(odd) {
+	background: #eee;
+	padding: 10px;
+}
+.awardthemes-sidebar-element .widget_tag_cloud{
+	padding-top:30px;
+	float:left;
+}
+.awardthemes-sidebar-element .tagcloud a,
+.awardthemes-sidebar-element .widget_categories ul li a{
+	color:inherit !important;
+}
+.awardthemes-sidebar-element .widget_archive ul li a{
+	color:#252525;
+}
+.footer-section .awardthemes-widget {
+    margin-bottom: 30px;
+}

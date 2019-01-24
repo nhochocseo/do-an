@@ -1,0 +1,768 @@
+/*
+File Name: Typography CSS Style
+Description: Typography CSS File
+Author: Award Themes
+Author URI: http://www.awardthemes.com
+Version: 1.0
+*/
+
+
+a:hover, a:focus, a:active {
+	outline: none;
+	text-decoration: none;
+	cursor: pointer;
+}
+body h1, body h2, body h3, body h4, body h5, body h6 {
+	font-style: normal;
+	font-weight: 400;
+	line-height: 1.1;
+	float:left;
+	width:100%;
+}
+a {
+	color: #252525;
+	text-decoration: none;
+}
+p a {
+    color: #252525;
+}
+strong {
+    color: #3d3d3d;
+}
+.awardthemes-blog-content{
+	clear: both;
+    float: left;
+    width: 100%;
+}
+.awardthemes-blog-content ul {
+	float: left;
+	width: 100%;
+}
+ul {
+	margin: 0px;
+	padding: 0px;
+	list-style: outside none disc
+}
+ul, ol {
+	float: left;
+	padding: 0;
+	width: 100%;
+	/* margin-left: 1.25em; */
+}
+ul ul {
+	margin: 0px;
+	padding: 0px;
+}
+ol {
+	float: none;
+	list-style: decimal;
+	padding-left: 15px;
+}
+ol ol {
+	margin-left: 20px;
+}
+ol>li {
+	list-style: decimal;
+	width: 100%;
+}
+ul li ul {
+	margin-left: 1.25em;
+}
+figure {
+	margin-bottom: 6px;
+	position: relative;
+}
+img {
+	max-width: 100%;
+}
+iframe {
+	border: none !important;
+	float: left !important;
+	width: 100% !important;
+}
+form {
+	float: left;
+	width: 100%;
+}
+
+/* Form Input Typo */
+
+select {
+	border: 1px solid #d2d2d2;
+	color: #666666;
+	cursor: pointer;
+	display: inline-block;
+	font-size: 14px;
+	font-weight: 300;
+	height: 40px;
+	padding: 8px 12px;
+	width: 100%;
+}
+label {
+	color: #000;
+	display: block;
+	font-weight: 400;
+	margin-bottom: 10px;
+}
+button {
+	border: none;
+}
+textarea, input[type="text"], input[type="password"], input[type="datetime"], input[type="datetime-local"], input[type="date"], input[type="month"], input[type="time"], input[type="week"], input[type="number"], input[type="email"], input[type="url"], input[type="search"], input[type="tel"], input[type="color"], .uneditable-input {
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	border: 1px solid #d2d2d2;
+	color: #3d3d3d;
+	display: inline-block;
+	font-size: 14px;
+	font-weight: 400;
+	height: 54px;
+	line-height: 20px;
+	outline: none;
+	vertical-align: middle;
+}
+form p span i {
+	color: #474747;
+	left: 16px;
+	position: absolute;
+	top: 13px;
+}
+
+/* ThemeUnit Style's */
+
+li {
+	display: list-item;
+	float: left;
+	width: 100%;
+}
+ol {
+	float: none;
+	list-style: decimal;
+	padding-left: 15px;
+}
+ol ol {
+	margin-left: 20px;
+}
+table {
+	background-color: transparent;
+	max-width: 100%;
+	width: 100%;
+}
+th {
+	text-align: left;
+}
+table>thead>tr>th, table>tbody>tr>th, table>tfoot>tr>th, table>thead>tr>td, table>tbody>tr>td, table>tfoot>tr>td {
+	vertical-align: top;
+	padding: 12px;
+}
+table thead tr th {
+	border-top: 1px solid #d2d2d2;
+}
+.table>caption+thead>tr:first-child>th, .table>colgroup+thead>tr:first-child>th, .table>thead:first-child>tr:first-child>th, .table>caption+thead>tr:first-child>td, .table>colgroup+thead>tr:first-child>td, .table>thead:first-child>tr:first-child>td {
+	border-top: 1px solid #d2d2d2;
+}
+table>thead>tr>th {
+	border-bottom: 2px solid #d2d2d2;
+	vertical-align: bottom;
+}
+table>caption+thead>tr:first-child>th, table>colgroup+thead>tr:first-child>th, table>thead:first-child>tr:first-child>th, table>caption+thead>tr:first-child>td, table>colgroup+thead>tr:first-child>td, table>thead:first-child>tr:first-child>td {
+	border-bottom: 0;
+}
+table>tbody+tbody {
+	border-top: 2px solid #d2d2d2;
+}
+.table>thead>tr>th, .table>tbody>tr>th, .table>tfoot>tr>th, .table>thead>tr>td, .table>tbody>tr>td, .table>tfoot>tr>td {
+	padding: 12px 16px;
+}
+
+address {
+	font-style: italic;
+}
+audio, video {
+	width: 100%;
+	float: left;
+}
+/* HTML-5 Element Typo */
+
+header, detail, article, aside, hgroup, nav, section, figure, figcaption, footer {
+	display: block;
+}
+audio, video, canvas {
+	float: left;
+	width: 100%;
+}
+
+/* UL Typo */
+
+dl {
+	margin-bottom: 24px;
+}
+dt {
+	font-weight: bold;
+}
+dd {
+	margin-bottom: 24px;
+}
+
+/* Figure Element Typo */
+
+img {
+	max-width: 100%;
+	-ms-interpolation-mode: bicubic;
+	border: 0;
+	vertical-align: middle;
+}
+figure {
+	margin: 0;
+	position: relative;
+}
+
+/* Clear Typo */
+
+.clear {
+	clear: both;
+	font-size: 0;
+	line-height: 0;
+}
+
+/* Defaul Elment Typo */
+
+address {
+	font-style: italic;
+	margin-bottom: 24px;
+}
+abbr[title] {
+	border-bottom: 1px dotted #2b2b2b;
+	cursor: help;
+}
+b, strong {
+	font-weight: 700;
+}
+cite, dfn, em, i {
+	font-style: italic;
+}
+mark, ins {
+	background: #fff9c0;
+	text-decoration: none;
+}
+code, kbd, tt, var, samp, pre {
+	font-family: monospace, serif;
+	font-size: 15px;
+	-webkit-hyphens: none;
+	-moz-hyphens: none;
+	-ms-hyphens: none;
+	hyphens: none;
+	line-height: 1.6;
+}
+pre {
+	border: 1px solid rgba(0, 0, 0, 0.1);
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	margin-bottom: 24px;
+	max-width: 100%;
+	overflow: auto;
+	padding: 12px;
+	white-space: pre;
+	white-space: pre-wrap;
+	word-wrap: break-word;
+}
+blockquote, q {
+	-webkit-hyphens: none;
+	-moz-hyphens: none;
+	-ms-hyphens: none;
+	hyphens: none;
+	quotes: none;
+}
+blockquote cite, blockquote small {
+	color: #2b2b2b;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 1.5;
+	margin-top: 10px;
+	clear: both;
+	display: inline-block;
+}
+blockquote em, blockquote i, blockquote cite {
+	font-style: normal;
+}
+blockquote strong, blockquote b {
+	font-weight: 400;
+}
+small {
+	font-size: smaller;
+}
+big {
+	font-size: 125%;
+}
+sup, sub {
+	font-size: 75%;
+	height: 0;
+	line-height: 0;
+	position: relative;
+	vertical-align: baseline;
+}
+sup {
+	bottom: 1ex;
+}
+sub {
+	top: .5ex;
+}
+dl {
+	margin-bottom: 24px;
+}
+dt {
+	font-weight: bold;
+}
+dd {
+	margin-bottom: 20px;
+}
+del {
+	color: #767676;
+}
+hr {
+	background-color: rgba(0, 0, 0, 0.1);
+	border: 0;
+	height: 1px;
+	margin-bottom: 23px;
+}
+
+/* IFrame Typo */
+
+
+/* Form Input Typo */
+
+fieldset {
+	border: 1px solid rgba(0, 0, 0, 0.1);
+	margin: 0 0 24px;
+	padding: 11px 12px 0;
+}
+legend {
+	white-space: normal;
+}
+label {
+	color: #666666;
+	display: block;
+	font-weight: 400;
+	margin-bottom: 10px;
+}
+select {
+	border: 1px solid #d2d2d2;
+	color: #666666;
+	cursor: pointer;
+	display: inline-block;
+	font-size: 14px;
+	font-weight: 300;
+	height: 40px;
+	padding: 8px 12px;
+	width: 100%;
+}
+textarea {
+	overflow: auto;
+	vertical-align: top;
+}
+button {
+	border: none;
+}
+button, input, select, textarea {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	font-size: 100%;
+	margin: 0;
+	max-width: 100%;
+	vertical-align: baseline;
+	color: #2b2b2b;
+	font-weight: 400;
+	line-height: 1.5;
+}
+button::-moz-focus-inner, input::-moz-focus-inner {
+	border: 0;
+	padding: 0;
+}
+button, html input[type="button"], input[type="reset"], input[type="submit"] {
+	-webkit-appearance: button;
+	cursor: pointer;
+}
+input, textarea {
+	background-image: -webkit-linear-gradient(hsla(0, 0%, 100%, 0), hsla(0, 0%, 100%, 0));
+	/* Removing the inner shadow, rounded corners on iOS inputs */
+}
+button[disabled], input[disabled] {
+	cursor: default;
+}
+input[type="checkbox"], input[type="radio"] {
+	padding: 0;
+}
+input[type="search"] {
+	-webkit-appearance: textfield;
+}
+input[type="search"]::-webkit-search-decoration {
+	-webkit-appearance: none;
+}
+form p span i {
+	color: #474747;
+	left: 16px;
+	position: absolute;
+	top: 13px;
+}
+
+/* ThemeUnit Style's */
+
+.fullsection {
+	width: 100%;
+	padding: 0px;
+}
+.fullsection .row {
+	margin: 0px;
+}
+.fullsection [class*="col-md-"] {
+	padding: 0px;
+}
+.full-content {
+	width: 100%;
+	float: left;
+	padding: 0px;
+}
+.full-content .row {
+	margin: 0px;
+}
+
+/*Table Typo*/
+
+table, th, td {
+	border: 1px solid rgba(0, 0, 0, 0.2);
+}
+table {
+	border-collapse: separate;
+	border-spacing: 0;
+	border-width: 1px 0 0 1px;
+	margin-bottom: 24px;
+	width: 100%;
+}
+thead {
+	color: #fff;
+	text-transform: capitalize;
+}
+caption, th, td {
+	font-weight: normal;
+	text-align: left;
+}
+th {
+	border-width: 0 1px 1px 0;
+	font-weight: bold;
+	padding: 15px;
+}
+td {
+	border-width: 0 1px 1px 0;
+	padding: 15px;
+}
+
+/* Place Holder Typo */
+
+::-webkit-input-placeholder {
+	color: #999999;
+	text-transform: capitalize;
+}
+:-moz-placeholder {
+	color: #999999;
+	opacity: 1;
+	text-transform: capitalize;
+}
+::-moz-placeholder {
+	color: #999999;
+	opacity: 1;
+	text-transform: capitalize;
+}
+:-ms-input-placeholder {
+	color: #999999;
+	text-transform: capitalize;
+}
+button, .contributor-posts-link, input[type="button"], input[type="reset"], input[type="submit"] {
+	border: 0;
+	font-weight: 600;
+	color: #fff;
+	font-size: 14px;
+	line-height: 14px;
+	text-transform: uppercase;
+	vertical-align: bottom;
+	padding:11px 24px;
+}
+.contributor-posts-link:hover, input[type="button"]:hover, input[type="button"]:focus, input[type="reset"]:hover, input[type="reset"]:focus, input[type="submit"]:hover, input[type="submit"]:focus {
+	background-color: #0d1115;
+	color: #fff;
+}
+button:active, .contributor-posts-link:active, input[type="button"]:active, input[type="reset"]:active, input[type="submit"]:active {
+	background-color: #55d737;
+}
+.search-field {
+	width: 100%;
+}
+.search-submit {
+	display: none;
+}
+
+/* Placeholder text color -- selectors need to be separate to work. */
+
+::-webkit-input-placeholder {
+	color: #939393;
+}
+:-moz-placeholder {
+	color: #939393;
+}
+::-moz-placeholder {
+	color: #939393;
+	opacity: 1;
+	/* Since FF19 lowers the opacity of the placeholder by default */
+}
+:-ms-input-placeholder {
+	color: #939393;
+}
+
+/* Responsive images. Fluid images for posts, comments, and widgets */
+
+.comment-content img, .entry-content img, .entry-summary img, #site-header img, .widget img, .wp-caption {
+	max-width: 100%;
+}
+.portfolio-item img {
+	width: 100%;
+}
+.portfolio-item:first-child {
+	padding: 0px 15px 0px 0px;
+    margin: 0px;
+}
+ul.portfolio-list {
+	margin: 0px;
+}
+/**
+
+ * Make sure images with WordPress-added height and width attributes are
+
+ * scaled correctly.
+
+ */
+
+.comment-content img[height], .entry-content img, .entry-summary img, img[class*="align"], img[class*="wp-image-"], img[class*="attachment-"], #site-header img {
+	height: auto;
+}
+img.size-full, img.size-large, .wp-post-image, .post-thumbnail img {
+	height: auto;
+	max-width: 100%;
+}
+
+/* Make sure embeds and iframes fit their containers */
+
+embed, iframe, object, video {
+	margin-bottom: 0px;
+	max-width: 100%;
+}
+p>embed, p>iframe, p>object, span>embed, span>iframe, span>object {
+	margin-bottom: 0;
+}
+
+/* Alignment */
+
+.alignleft {
+	float: left;
+}
+.alignright {
+	float: right;
+}
+.aligncenter {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+blockquote.alignleft {
+	margin: 7px 24px 7px 0;
+	float:left;
+}
+img.alignleft{
+	float:left;
+}
+blockquote.alignright, img.alignright {
+	margin: 7px 0 20px 24px;
+	clear: both;
+}
+
+blockquote.aligncenter, img.aligncenter, .wp-caption.aligncenter {
+	margin-top: 7px;
+	margin-bottom: 7px;
+}
+.site-content blockquote.alignleft, .site-content blockquote.alignright {
+	border-top: 1px solid rgba(0, 0, 0, 0.1);
+	border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+	padding-top: 17px;
+	width: 50%;
+}
+.site-content blockquote.alignleft p, .site-content blockquote.alignright p {
+	margin-bottom: 17px;
+}
+
+.awardthemes-uptodate ::-webkit-input-placeholder {
+	color: #fff;
+}
+.awardthemes-uptodate :-moz-placeholder {
+	color: #fff;
+}
+.awardthemes-uptodate ::-moz-placeholder {
+	color: #fff;
+	opacity: 1;
+	/* Since FF19 lowers the opacity of the placeholder by default */
+}
+.awardthemes-uptodate :-ms-input-placeholder {
+	color: #fff;
+}
+.awardthemes-admin-post {
+	float: left;
+	width: 100%;
+	padding: 20px;
+	position: relative;
+	background: #f9f9f9;
+	border: 1px solid #dddddd;
+	border-left: none;
+	border-top: none;
+	border-right: none;
+	margin: 0px 0px 30px;
+}
+.awardthemes-admin-post figure {
+	border: 3px solid #efefef;
+	float: left;
+	width: 104px;
+	margin: 0px 0px 0px 0px;
+}
+.awardthemes-admin-post figure img {
+	width: 100%;
+}
+.awardthemes-admin-post figure a {
+	float: left;
+	padding: 0px 0px 0px;
+	width: 100%;
+}
+.awardthemes-admin-post figure~.admin-info {
+	padding: 0px 0px 0px 142px;
+}
+.admin-info h2 {
+	font-weight: 500;
+	text-transform: uppercase;
+	font-size: 18px;
+	margin: 0px 0px 10px 0px;
+}
+#awardthemes-submit-form p {
+	margin: 0px;
+	padding: 0px;
+}
+.awardthemes-uptodate .social-icons ul {}
+.awardthemes-shop-list li {
+	list-style: none;
+}
+
+/*
+
+	  ============================================================
+
+		   Submit Add Author Detail Wrap Start
+
+	  ============================================================
+
+*/
+
+.media-modal-icon .screen-reader-text {
+	display: none;
+}
+.wp-core-ui .quicktags-toolbar input.button.button-small {
+	width: auto !important;
+}
+.awardthemes-user-profile .good_step2_field textarea {
+	height: 287px;
+}
+.wpcf7-response-output {
+	float: left;
+	width: 100%;
+	margin-top: 5px;
+}
+..good_with_us_social ul {
+	list-style: none;
+	padding: 0px;
+}
+.margin-top-50-minus {
+	float: left;
+	width: 100%;
+	margin-top: -50px;
+}
+.awardthemes-sidebar>[class*="col-md-"] {
+	width: 100%;
+	float: left;
+	margin-bottom: 30px;
+	padding: 0px;
+}
+.awardthemes-team-network-kick, .good_tag_list {
+	padding: 0px;
+	list-style: none;
+}
+.good_tag_list i {
+	display: none;
+}
+.comment-respond #reply-title {
+	font-size: 16px;
+	text-transform: uppercase;
+	font-weight: 700;
+	color: #1f1f1f;
+	margin-bottom: 15px;
+	background-color: transparent;
+}
+
+.pagination .pull-right {
+	text-align: right;
+}
+.good_comment_date span {
+	color: #888;
+	font-weight: 400;
+}
+.good_comment_des p {
+	float: left;
+	width: 100%;
+}
+.awardthemes-nav ul ul ul {
+	top: 0px;
+	right: 100%;
+	left: auto;
+}
+.navigation-3 ul li.last ul, .awardthemes-nav ul li.last ul {
+	left: auto;
+	right: 0px;
+}
+.awardthemes-nav ul li.last ul ul {
+	left: auto;
+	right: 100%;
+}
+.button-link.delete-attachment, .attachment-info .edit-attachment, .button-link.check .screen-reader-text, .attachments-browser .media-toolbar, #cupp_meta {
+	display: none;
+}
+.awardthemes-video {
+	width: 100%;
+	float: left;
+}
+.post-password-form input[type="password"] {
+	border-color: #333;
+	display: block;
+	height: 42px;
+	min-width: 30%;
+	margin: 20px 0;
+	width:100%;
+}
+.post-password-form label {
+	float: left;
+	width: 100%;
+}
+.post-password-form input[type="submit"] {
+	border: medium none;
+	color: #fff;
+	height: auto;
+	min-height: inherit;
+	clear: both;
+	float: left;
+	width: auto;
+	padding: 16px 30px;
+	margin-bottom:20px;
+}

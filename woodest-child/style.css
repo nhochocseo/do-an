@@ -1,0 +1,227 @@
+/* 
+Theme Name:   Woodest Child
+Description:  Write a sentence about your job
+Author:       admin
+Author URL:   https://awardthemes.com
+Template:     woodest
+Version:      1.2
+License:      GNU General Public License v2 or later
+License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain:  woodest-child
+*/
+
+
+.no-padding {
+    padding: 0;
+}
+.info-box {
+    color: #fff;
+}
+.widget_opening .info-box p {
+    font-weight: 300;
+    color: #c5c5c5;
+}
+.footer-section {
+    padding-top: 80px;
+    clear: both;
+}
+
+.middle-header {
+    padding-bottom: 0px;
+    padding-top: 0px;
+}
+.owl-nav {
+	display: none!important;
+}
+.portfolio-item {
+ display: none;
+}
+.fw-page-builder-content .awardthemes-elements {
+    margin-right: -15px;
+    margin-left: -15px;
+}
+li.categories-item {
+    float: left;
+    display: inline-block;
+    font-family: Roboto;
+    width: auto;
+    padding: 0px;
+}
+.categories-portfoli{
+    margin-left: 0px;
+}
+li.categories-item.active {
+        background: #fff;
+    color: #000;
+}
+li.categories-item.active a {
+    color: #000;
+}
+#categories-portfolio .separator {
+    display: none;
+}
+.wrapp-categories-portfolio {
+    float: left;
+    /*display: none;*/
+}
+.default-page-content .item h2 {
+    color: #009acf;
+    font: normal 22px OpenSans-Regular;
+}
+.footer-bottom a {
+    color: #125fae;
+}
+.project-content {
+    padding: 15px;
+}
+@media (max-width: 992px) {    
+    #header .bg-nav,#header .ow-navigation {
+        background: #FFF!important;
+        background-color:#FFF !important;
+    }
+    .fw-page-builder-content .fw-row {
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+    .type-post .entry-content {
+        width: 100%!important;
+    }
+}
+.blog-holder .type-post .entry-content.grid-entry-content {
+    margin-bottom: 69px;
+}
+.list-category ul li.menu-item {
+    display: inline-block;
+    float: none;
+    width: 32.33333333%;
+}
+.list-category ul li.menu-item a {
+    background: #125fae;
+    color: #fff;
+    border-bottom: 1px solid #ccc;
+    font-size: 17px;
+}
+.list-category .collapse {
+    display: block;
+    margin: 0px;
+    padding: 0px;
+}
+.list-category ul li ul.sub-menu {
+    position: relative;
+    display: block;
+    width: 100%;
+    min-width: 100%;
+    border: none;
+    overflow: hidden;
+    box-shadow: none;
+}
+.list-category ul li ul.sub-menu li {
+    width: 100%;
+    display: block;
+}
+.list-category ul li ul.sub-menu li a {
+    border: none;
+    background: no-repeat;
+    color: #000;
+}
+.list-category ul li ul.sub-menu li a:hover {
+    background: #125fae;
+    color: #f7941d;
+    font-family: Roboto;
+}
+.woodest-post-blocks {
+    margin-top: 60px;
+}
+.main-single {
+    margin: 25px 50px 20px 20px;
+}
+.slider-section .item .carousel-caption {
+    /*top: 75%!important;*/
+}
+.contact-form {
+    background: url('http://nhatnamacs.com/wp-content/themes/woodest-child/assets/images/background-1.jpg');
+    background-size: cover;
+    color: #fff;
+    border: 4px solid #125fae;
+    border-left: none;
+}
+.welcome-content, .contact-form {
+        height: 556px;
+}
+.contact-form::before{
+    background-color: rgba(0, 0, 0, 0.65);
+}
+.welcome-section .welcome-content::before {
+    left: -5px!important;
+}
+.why-choose-section2 p {
+    line-height: 28px;
+}
+.why-choose-section2 .why-choose-bg-img {
+    margin-top: 25px;
+}
+.welcome-box h4 {
+    color: #125fae;
+}
+.hinh-anh-container .fw-row {
+    float: left;
+    border: 1px solid #ccc;
+    margin: 0px 10px 10px 0px;
+    padding: 0px;
+}
+.hinh-anh-container .fw-row .fw-col-xs-12 {
+    margin: 0px;
+    padding: 0px;
+}
+.hinh-anh-container .fw-row img {
+    width: 100%;
+}
+.hinh-anh-container .fw-row .fw-col-xs-12 img:hover {
+    cursor: pointer;
+}
+.woodest-post-blocks .prev-post, .woodest-post-blocks .next-post {
+    background: #125fae;
+}
+.relatedcat {
+    margin: 40px 35px;
+}
+.relatedcat ul li {
+    list-style: none;
+    margin-bottom: 5px;
+}
+.portfolio-section { 
+    border-bottom: 1px solid #ccc;
+}
+.blog-holder  .entry-cover img {
+    height: 345px!important;
+}
+.logo {
+    width: 20%;
+    float: left;
+}
+.logo img {
+    width: 180px!important;
+}
+.header-menu {
+    width: 80%;
+    float: left;
+}
+.section-header .title {
+    font-size: 19px;
+    padding: 15px;
+    background-image: linear-gradient(#FF9800, #FFC107);
+    color: #000;
+    text-align: center;
+}
+.welcome-content .header .title {
+    font-size: 19px;
+    padding: 15px;
+    background-image: linear-gradient(#FF9800, #FFC107);
+    color: #000;
+    text-align: center;
+}
+.image-icon {
+    position: absolute;
+    top: 50%;
+    right: -192px;
+}

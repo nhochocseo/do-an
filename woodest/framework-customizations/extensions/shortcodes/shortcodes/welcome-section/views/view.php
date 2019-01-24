@@ -24,7 +24,7 @@ if (!defined('FW')) {
 				</div>
 				<div class="col-md-6 col-sm-6 welcome-content">					
 					<div class="header">
-						<h3 class="title"><?php echo esc_attr($title); ?></h3>
+						<span class="title"><?php echo esc_attr($title); ?></span>
 					</div>
 					<div class="welcome-description">
 						<?php echo esc_attr($description); ?>

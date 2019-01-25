@@ -21,7 +21,8 @@
 					<div class="row">
 						<?php dynamic_sidebar('Footer'); ?>
 					</div>
-				</div><!-- Container /- -->
+				</div>
+				<!-- Container /- -->
 				<div class="footer-bottom container-fluid no-padding">
 					<div class="container">
 						<div class="row">

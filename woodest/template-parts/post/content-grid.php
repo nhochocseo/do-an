@@ -11,10 +11,10 @@
 	$cats = array();
 ?>
 
-	<article id="post-<?php the_ID(); ?>" <?php post_class(''); ?>>
+	<article class="main-post" id="post-<?php the_ID(); ?>" <?php post_class(''); ?>>
 		<?php 
 		if(has_post_thumbnail()){ ?>
-			<div class="entry-cover">
+			<div class="entry-cover row">
 				<a href="<?php echo esc_url(get_permalink()); ?>">
 					<figure>
 						<?php the_post_thumbnail('full' ); ?>
@@ -23,28 +23,14 @@
 			</div>
 			<?php 
 		} ?>
-<!-- 		<div class="entry-content grid-entry-content">
-			<h3 class="entry-title">
-				<a href="<?php echo esc_url(get_permalink())?>"><?php echo substr(get_the_title(),0,$post_builder_options['blog_num_title']); ?></a>
-			</h3>
-			<div class="post-date">
-				<span><?php echo esc_attr(get_the_date('d'))?></span><?php echo esc_attr(get_the_date('M'))?>, <?php echo esc_attr(get_the_date('Y'))?>
-			</div> 
-			<div class="entry-meta test">
-				<?php echo esc_attr__('By ','woodest'); ?>
-				<div class="byline">
-					<i class="fa fa-user"></i>
-					<?php echo the_author_posts_link(); ?>
-				</div>
-				<div class="post-comment">
-					<i class="fa fa-comment-o"></i>
-					<a href="<?php echo esc_url(get_permalink()); ?>#respond">
-						<?php echo esc_attr($comment_count);?> 
-						<?php echo esc_attr__('Comments','woodest'); ?>
-					</a>
-				</div>
+		<div class="main-content">
+			<div class="title">
+				<a href="<?php echo esc_url(get_permalink())?>"><?php echo substr(get_the_title(),0,100); ?></a>
 			</div>
-			<p><?php echo substr(get_the_content(),0,$post_builder_options['blog_num_descrp']); ?></p>
-			<a href="<?php echo esc_url(get_permalink()); ?>"><?php echo esc_attr__('Chi tiết','woodest'); ?><i class="fa fa-long-arrow-right"></i></a>
+			<div class="content">
+				<?php echo substr(get_the_content(),0,200); ?>
+			</div>
+		</div>
+
 		</div> -->
 	</article>

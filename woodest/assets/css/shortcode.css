@@ -256,7 +256,7 @@ Version: 1.0
 	z-index: 1;
 }
 .welcome-section .welcome-content::before {
-	border: 5px solid #92632a;
+	/* border: 5px solid #92632a; */
 	content: "";
 	display: inline-block;
 	left: -45px;
@@ -271,7 +271,7 @@ Version: 1.0
 }
 .welcome-section .welcome-content p {
 	font-size: 15px;
-	line-height: 26px;
+	line-height: 11px;
 }
 .welcome-section .welcome-box {
 	width: 100%;

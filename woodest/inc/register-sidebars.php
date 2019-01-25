@@ -28,8 +28,8 @@
 			'name'          => esc_attr__( 'Footer', 'woodest' ),
 			'id'            => 'sidebar-footer',
 			'description'   => esc_attr__( 'Add widgets here to appear in your footer.', 'woodest' ),
-			'before_widget' => '<div id="%1$s" class="'.esc_attr($footer_col_layout).' col-sm-6 %2$s awardthemes-widget"><div class="widget footer-widget">',
-			'after_widget'  => '</div></div>',
+			'before_widget' => '',
+			'after_widget'  => '',
 			'before_title'  => '<div class="ftr-widget"><h3 class="widget-title">',
 			'after_title'   => '</h3></div>',
 		) );

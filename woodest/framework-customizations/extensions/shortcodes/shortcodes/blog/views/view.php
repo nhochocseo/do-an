@@ -12,6 +12,7 @@ if (!defined('FW')) {
 	$blog_style = isset( $atts['blog_style'] ) ? $atts['blog_style'] : '';
 	$blog_pagination = isset( $atts['blog_pagination'] ) ? $atts['blog_pagination'] : '';
 	$blog_cols = isset( $atts['blog_cols'] ) ? $atts['blog_cols'] : '';
+	$blog_slide = isset( $atts['blog_slide'] ) ? $atts['blog_slide'] : '';
 	$blog_num_fetch = isset( $atts['blog_num_fetch'] ) ? $atts['blog_num_fetch'] : '';
 	$blog_order_by = isset( $atts['blog_order_by'] ) ? $atts['blog_order_by'] : '';
 	
@@ -54,6 +55,11 @@ if (!defined('FW')) {
 				get_template_part( 'template-parts/post/content', 'full' );
 			}	
 		}else{
+			if($blog_slide == "co") {
+				?>
+
+
+			<?php } else {
 			?>
 			<div class="row">
 				<?php 
@@ -67,6 +73,7 @@ if (!defined('FW')) {
 				} ?>
 			</div>
 				<?php
+			}
 		}
 		
 		if(isset($blog_pagination) && $blog_pagination == 'enable'){

@@ -15,14 +15,14 @@ Text Domain:  woodest-child
     padding: 0;
 }
 .info-box {
-    color: #fff;
+    color: #000;
 }
 .widget_opening .info-box p {
     font-weight: 300;
     color: #c5c5c5;
 }
 .footer-section {
-    padding-top: 80px;
+    padding-top: 40px;
     clear: both;
 }
 
@@ -213,23 +213,209 @@ li.categories-item.active a {
     color: #000;
     text-align: center;
 }
-.welcome-content .header {
+.header {
     position: relative;
-    margin: 40px 15px;
+    margin: 35px 0px;
 }
-.welcome-content .header .title {
-    font-size: 19px;
-    padding: 35px;
-    /* background-image: linear-gradient(#FF9800, #FFC107); */
-    background-image: url(assets/images/header-title-bankground.png);
+.header .title {
+    font-size: 17px;
+    padding: 30px 70px 25px  70px;
+    background: url(assets/images/header-title-bankground.png) 32px 15px;
     background-repeat: no-repeat;
     background-size: contain;
     color: #000;
-    /* background-position: center; */
     text-align: center;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.welcome-content .welcome-contact .title {
+    color: red;
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 16px;
+    margin-bottom: 10px;
+}
+.welcome-section .welcome-content p {
+    font-size: 15px;
+    line-height: 11px;
+}
+.welcome-content .image-right {
+    position: absolute;
+    top: -138px;
+    right: -192px;
 }
 .image-icon {
     position: absolute;
     top: 50%;
     right: -192px;
+}
+.dich-vu {
+    background: #263150;
+    margin: auto;
+}
+.dich-vu .header-dich-vu {
+    text-align: center;   
+    margin-bottom: 90px; 
+}
+.dich-vu .header-dich-vu .content {
+    color: #fff;
+}
+.dich-vu .main-container {
+    width: 80%;
+    margin: auto;
+}
+.dich-vu .content-dich-vu {
+    background: #FFF;
+    margin-bottom: 200px;
+}
+.dich-vu .content-dich-vu .item1 {
+    
+clear: none;
+}
+.dich-vu .content-dich-vu .item1 .thumb {
+    width: 20%;
+    float: left;
+    position: relative;
+    top: -35px;
+    left: -80px;
+    box-shadow: 1px 1px red;
+}
+.dich-vu .content-dich-vu .item1 .thumb img {
+    
+}
+.dich-vu .content-dich-vu .item1 .content {
+    width: 80%;
+    float: left;
+}
+.dich-vu .content-dich-vu .content .title{
+    width: 80%;
+    color: #e64d32;
+    margin-top: 20px;
+    font-size: 19px;
+    margin-bottom: 15px;
+}
+.dich-vu .content-dich-vu .item2 {
+    clear: right;
+    padding-top: 25px;
+        text-align: right;
+}
+.dich-vu .content-dich-vu .item2 .thumb {
+    width: 20%;
+    float: right;
+    position: relative;
+    top: -196px;
+    left: 71px;
+    box-shadow: -1px 1px red;
+}
+.dich-vu .content-dich-vu .item2 .thumb img {
+    
+}
+.dich-vu .content-dich-vu .item2 .content {
+    width: 80%;
+    float: left;
+}
+.dich-vu .content-dich-vu .item3 {
+    
+clear: none;
+}
+.dich-vu .content-dich-vu .item3 .thumb {
+    width: 20%;
+    float: left;
+    position: relative;
+    top: -35px;
+    left: -80px;
+    box-shadow: 1px 1px red;
+}
+.dich-vu .content-dich-vu .item3 .thumb img {
+    
+}
+.dich-vu .content-dich-vu>.item3>.content {
+    width: 60%;
+    float: left;
+}
+.dich-vu .image_1 {
+    position: absolute;
+    top: 47%;
+    left: -26px;
+}
+.dich-vu .image_2 {
+    position: absolute;
+    top: 5%;
+    right: -16px;
+}
+.dich-vu .image_3 {
+    position: absolute;
+    bottom: 2%;
+    right: 20%;
+}
+.dich-vu .image_4 {
+    position: absolute;
+    bottom: -2%;
+    right: 18%;
+}
+.dich-vu .image_5 {
+    position: absolute;
+    top: 10%;
+    right: 26%;
+}
+.dich-vu .image_6 {
+    position: absolute;
+    bottom: 9%;
+    right: 55%;
+}
+.dotred {
+    border: 1px solid red;
+    width: 45%;
+    float: inherit;
+    margin: 43px 125px;
+}
+.dotred2 {
+    border: 1px solid red;
+    width: 61%;
+    float: inherit;
+    margin: 43px 125px;
+}
+.thong-tin {
+    float: right;
+    width: 85%;
+}
+.thong-tin span {
+    margin-right: 10px;
+}
+.thong-tin h3 {
+    margin: 0px;
+    padding: 0px;
+    margin-bottom: 0px;
+}
+.image-icon-tintuc {
+    width: 100%;
+    position: absolute;
+    bottom: -8%;
+}
+.image-icon-tintuc img {
+    width: 100%;
+}
+.blog-holder {
+    margin-bottom: 100px;
+}
+.blog-holder .main-post {
+    background: #FFF;
+    padding: 10px;
+    border-radius: 5px;
+}
+.blog-holder .main-post img {
+    border-radius: 5px;
+}
+.blog-holder .main-post .title {
+    margin: 10px 0px;
+}
+.blog-holder .main-post .title a {
+    color: #e64d32;
+}
+.blog-holder .main-post .title a:hover {
+    color: #000;
+}
+.blog-holder .main-post .entry-cover {
+    margin: 0px;
+    padding: 0px;
 }

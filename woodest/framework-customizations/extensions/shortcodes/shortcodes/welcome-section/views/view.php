@@ -34,6 +34,9 @@ if (!defined('FW')) {
 						<p>Hotline: <?php echo esc_attr($hotline); ?></p>
 						<p>Email: <?php echo esc_attr($email); ?></p></p>
 					</div>
+					<div class="image-right">
+						<?php echo wp_get_attachment_image($atts['image_right']['attachment_id'],'full' ); ?>
+					</div>
 				</div>
 			</div><!-- Container /- -->
 		</div>

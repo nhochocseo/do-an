@@ -34,6 +34,14 @@ $options = array(
 			'col-md-3' => esc_attr__('4 Columns', 'woodest'),
 		),
 	),
+	'blog_slide' => array(
+		'label' => esc_attr__('Blog Grid Columns', 'woodest'),
+		'type'  => 'select',
+		'choices' => array(
+			'co' => esc_attr__('Có', 'woodest'),
+			'khong' => esc_attr__('Không', 'woodest'),
+		),
+	),
 	'blog_num_title' => array(
 		'label' => esc_attr__('Num Title (Character)', 'woodest'),
 		'type'  => 'text',

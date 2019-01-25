@@ -36,7 +36,7 @@ $options = array(
 		'desc' => esc_attr__('Chọn ảnh hiển thị bên trái', 'woodest'),
 	),
 	'image_right' => array(
-		'label' => esc_attr__('Ảnh bên trái', 'woodest'),
+		'label' => esc_attr__('Ảnh bên phải', 'woodest'),
 		'type'  => 'upload',
 		'desc' => esc_attr__('Chọn ảnh hiển thị bên trái', 'woodest'),
 	),

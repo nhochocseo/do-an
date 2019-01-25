@@ -253,8 +253,8 @@ main {
 }
 /* + Footer */
 .footer-section {
-	background-color: #222222;
-	padding-top: 80px;	
+	background-color: #fbf5f5;
+	padding-top: 80px;
 	clear:both;
 }
 .footer-default-section{
@@ -316,7 +316,7 @@ main {
 	color: #92632a;
 }
 .ftr-widget {
-	display: inline-block;
+	/* display: inline-block; */
 	width: 100%;
 }
 .ftr-widget .widget-title {
@@ -324,10 +324,10 @@ main {
 	font-weight: bold;
 	font-size: 16px;
 	text-transform: uppercase;
-	color: #ffffff;
+	color: #252525;
 	position: relative;
 	padding-bottom: 25px;
-	margin-bottom: 30px;
+	margin-bottom: 0px;
 	letter-spacing: 0.64px;
 	margin-top: 0;
 }
@@ -352,21 +352,22 @@ main {
 	font-family: 'Roboto', sans-serif;
 	font-weight: 500;
 	font-size: 17px;
-	color: #ffffff;
+	color: #131313;
 	margin-top: 0;
 	letter-spacing: 0.68px;
 }
 .widget_contact .info-box p,
 .widget_contact .info-box a {
 	font-weight: 300;
-	color: #c5c5c5;
+	color: #100f0f;
 }
 .widget_contact .info-box a {
-	display: block;	
+	/* display: block; */
+	margin: 2px;
 	text-decoration: none;
 }
 .widget_contact .info-box a:hover {
-	color: #92632a;
+	color: #000!important;
 }
 
 /* - Widget : Opening */
